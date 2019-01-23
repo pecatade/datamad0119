@@ -30,7 +30,7 @@ LIMIT 3;
 #Challenge 2
 #Step 1
 
-CREATE TEMPORARY TABLE royalty_tables
+#CREATE TEMPORARY TABLE royalty_tables
 SELECT titles.title_id 'TITLE ID', titleauthor.au_id 'AUTHOR ID', titles.price*sales.qty*titles.royalty/100*titleauthor.royaltyper/100 'ROYALTY'
 FROM titles
 INNER JOIN titleauthor
@@ -44,6 +44,14 @@ FROM royalty_tables
 GROUP BY `TITLE ID`, `AUTHOR ID`;
 
 #Step 3
+SELECT `AUTHOR ID`, SUM(`Royalty`) 'PROFITS PER AUTHOR'
+FROM royalty_tables
+GROUP BY `AUTHOR ID`
+ORDER BY 'PROFITS PER AUTHOR' DESC
+LIMIT 3;
+
+#Challenge 3
+CREATE TABLE most_profiting_authors
 SELECT `AUTHOR ID`, SUM(`Royalty`) 'PROFITS PER AUTHOR'
 FROM royalty_tables
 GROUP BY `AUTHOR ID`
