@@ -76,21 +76,44 @@ def barcharteam():
     plt.tight_layout()
     return plt.show()
 
+def choose_team():
+    print("TEAMS: MIN, PHO, MIL, GSW, SAS, BRK, DEN, DAL, POR, ORL, IND, PHI, DET, BOS, CHO, OKC, MEM, LAC, ATL, HOU, WAS, NOP, SAC, NYK, CHI, LAL, TOR, UTA, CLE, MIA")
+    team = input("From what Team do you want the information? ")
+    print('\n')
+    data = pd.read_csv("CSVS/team{}.csv".format(team.upper()))
+    return data
 
-#def choose():
-print("TEAMS: MIN, PHO, MIL, GSW, SAS, BRK, DEN, DAL, POR, ORL, IND, PHI, DET, BOS, CHO, OKC, MEM, LAC, ATL, HOU, WAS, NOP, SAC, NYK, CHI, LAL, TOR, UTA, CLE, MIA")
-team = input("From what Team do you want the information? ")
-print('\n')
-data = pd.read_csv("CSVS/team{}.csv".format(team))
-print("Write 'ALL' for all the information or player name: {} for a specific player ".format(list(data["Player"])))
-print('\n')
-player = input("Do you want all the information about the team or a specific player? ")
-if player == "ALL":
-    print(data)
-    barcharteam()
-else:
-    print(data.loc[data['Player'] == player])
-
+def choose_player(data):
+    print("Write 'ALL' for all the information or player name: {} for a specific player ".format(list(data["Player"])))
+    print('\n')
+    player = input("Do you want all the information about the team or a specific player? ").upper()
+    if player == "ALL":
+        print(data)
+        barcharteam()
+    else:
+        print(data.loc[data['Player'] == player])
+       
+    
+def printteamerror():  
+    try:
+        data = choose_team()
+        return data
+        pass
+    except:
+        print("TIENES QUE ELEGIR ENTRE UNO DE LOS EQUIPOS DE LA LIGA.")
+        printteamerror()
+        
+        
+def printplayererror(data):
+    try:
+        choose_player(data)
+        pass
+    except:
+        print("NOMBRE NO ENCONTRADO. ESTAS SON LAS ESTADÍSTICAS DE TODO EL EQUIPO")
+        printplayererror(data)
     
 if __name__ == "__main__":
-    choose()
+    data = printteamerror()
+    printplayererror(data)
+    
+  
