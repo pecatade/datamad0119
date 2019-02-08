@@ -87,7 +87,7 @@ def choose_player(data):
     print("Write 'ALL' for all the information or player name: {} for a specific player ".format(list(data["Player"])))
     print('\n')
     player = input("Do you want all the information about the team or a specific player? ").upper()
-    if player == "ALL":
+    if player == "ALL" or player == "all":
         print(data)
         barcharteam()
     else:
