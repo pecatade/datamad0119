@@ -1,695 +1,509 @@
-{"name":"Wetpaint_office_1","category_code":"web","latitude":47.603122,"longitude":-122.333253}
-{"name":"Wetpaint_office_2","category_code":"web","latitude":40.7237306,"longitude":-73.9964312}
-{"name":"MeetMoi_office_1","category_code":"social","latitude":40.757929,"longitude":-73.985506}
-{"name":"Joost_office_1","category_code":"games_video","latitude":40.7464969,"longitude":-74.0094471}
-{"name":"Twitter_office_1","category_code":"social","latitude":37.7768052,"longitude":-122.4169244}
-{"name":"Powerset_office_1","category_code":"search","latitude":37.778613,"longitude":-122.395289}
-{"name":"Kyte_office_1","category_code":"games_video","latitude":37.788482,"longitude":-122.409173}
-{"name":"Jingle Networks_office_1","category_code":"mobile","latitude":37.480999,"longitude":-122.173887}
-{"name":"Wesabe_office_1","category_code":"web","latitude":37.793148,"longitude":-122.402567}
-{"name":"Jajah_office_1","category_code":"mobile","latitude":37.4233896,"longitude":-122.0899512}
-{"name":"Livestream_office_1","category_code":"games_video","latitude":40.726155,"longitude":-73.995625}
-{"name":"Ustream_office_1","category_code":"games_video","latitude":37.392936,"longitude":-122.07948}
-{"name":"Pownce_office_1","category_code":"web","latitude":37.762541,"longitude":-122.397224}
-{"name":"Revision3_office_1","category_code":"games_video","latitude":37.757758,"longitude":-122.388243}
-{"name":"ZenZui_office_1","category_code":"mobile","latitude":47.620716,"longitude":-122.347533}
-{"name":"CastTV_office_1","category_code":"games_video","latitude":37.780716,"longitude":-122.393913}
-{"name":"iSkoot_office_2","category_code":"mobile","latitude":37.780134,"longitude":-122.396744}
-{"name":"Funny Or Die_office_1","category_code":"games_video","latitude":37.421621,"longitude":-122.137444}
-{"name":"Zooomr_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"coRank_office_1","category_code":"web","latitude":37.36965,"longitude":-122.02421}
-{"name":"Pageflakes_office_1","category_code":"web","latitude":37.758113,"longitude":-122.414689}
-{"name":"Instructables_office_1","category_code":"web","latitude":37.7791761,"longitude":-122.4058887}
-{"name":"Netvibes_office_1","category_code":"web","latitude":48.870806,"longitude":2.34668}
-{"name":"Swivel_office_1","category_code":"search","latitude":37.789268,"longitude":-122.395184}
-{"name":"TripHub_office_1","category_code":"web","latitude":47.614653,"longitude":-122.338793}
-{"name":"Bebo_office_1","category_code":"web","latitude":37.782103,"longitude":-122.401116}
-{"name":"TVtrip_office_1","category_code":"web","latitude":48.856667,"longitude":2.350987}
-{"name":"Meebo_office_1","category_code":"web","latitude":37.393679,"longitude":-122.079017}
-{"name":"Eventbrite_office_1","category_code":"web","latitude":37.779507,"longitude":-122.39071}
-{"name":"Newsvine_office_1","category_code":"web","latitude":47.618599,"longitude":-122.358484}
-{"name":"Terabitz_office_1","category_code":"web","latitude":37.437328,"longitude":-122.159928}
-{"name":"Seesmic_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"oDesk_office_1","category_code":"web","latitude":37.479952,"longitude":-122.178557}
-{"name":"Ujogo_office_1","category_code":"web","latitude":37.76785,"longitude":-122.392861}
-{"name":"Flixster_office_1","category_code":"web","latitude":37.766909,"longitude":-122.406676}
-{"name":"GoingOn_office_1","category_code":"software","latitude":37.782263,"longitude":-122.392142}
-{"name":"spigit_office_3","category_code":"software","latitude":51.5170385,"longitude":-0.1394759}
-{"name":"Jaxtr_office_1","category_code":"mobile","latitude":37.451026,"longitude":-122.18676}
-{"name":"Curse_office_1","category_code":"games_video","latitude":37.787092,"longitude":-122.399972}
-{"name":"Grockit_office_1","category_code":"social","latitude":37.775196,"longitude":-122.419204}
-{"name":"PodTech_office_1","category_code":"games_video","latitude":37.408256,"longitude":-122.154176}
-{"name":"FeVote_office_1","category_code":"web","latitude":37.779392,"longitude":-122.417928}
-{"name":"Forbes_office_1","category_code":"web","latitude":40.736416,"longitude":-73.993302}
-{"name":"Reddit_office_1","category_code":"web","latitude":37.780883,"longitude":-122.395257}
-{"name":"Buxfer_office_1","category_code":"web","latitude":37.400465,"longitude":-122.073003}
-{"name":"Retrevo_office_1","category_code":"web","latitude":37.368594,"longitude":-122.034021}
-{"name":"BuddyTV_office_1","category_code":"games_video","latitude":47.61968,"longitude":-122.356756}
-{"name":"Tangler_office_1","category_code":"web","latitude":37.386665,"longitude":-122.084171}
-{"name":"BillMonk_office_1","category_code":"web","latitude":47.620716,"longitude":-122.347533}
-{"name":"Dropbox_office_1","category_code":"software","latitude":37.7909427,"longitude":-122.4084994}
-{"name":"Weebly_office_1","category_code":"web","latitude":37.795555,"longitude":-122.400729}
-{"name":"Yola_office_1","category_code":"web","latitude":37.7911148,"longitude":-122.3954751}
-{"name":"Kongregate_office_1","category_code":"games_video","latitude":37.786942,"longitude":-122.401245}
-{"name":"DanceJam_office_1","category_code":"games_video","latitude":37.781557,"longitude":-122.407959}
-{"name":"Doostang_office_1","category_code":"web","latitude":37.427235,"longitude":-122.145783}
-{"name":"SnapTell_office_1","category_code":"software","latitude":37.433414,"longitude":-122.128772}
-{"name":"Wonga_office_1","category_code":"web","latitude":51.5192042,"longitude":-0.1626103}
-{"name":"MicroPlace_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"EyeJot_office_1","category_code":"web","latitude":47.5999337,"longitude":-122.3276962}
-{"name":"OMGPOP_office_1","category_code":"games_video","latitude":40.723384,"longitude":-74.001704}
-{"name":"SayNow_office_1","category_code":"mobile","latitude":37.42746,"longitude":-122.143915}
-{"name":"Crunchyroll_office_1","category_code":"games_video","latitude":37.781265,"longitude":-122.393229}
-{"name":"Behance_office_1","category_code":"web","latitude":40.74406,"longitude":-74.004592}
-{"name":"FAROO_office_1","category_code":"search","latitude":51.5195795,"longitude":-0.1065551}
-{"name":"LineUpNewYork_office_1","category_code":"web","latitude":40.753202,"longitude":-73.986771}
-{"name":"MediaPops_office_1","category_code":"games_video","latitude":47.611012,"longitude":-122.333523}
-{"name":"PeekYou_office_1","category_code":"search","latitude":40.757929,"longitude":-73.985506}
-{"name":"YourStreet_office_1","category_code":"web","latitude":37.793742,"longitude":-122.421341}
-{"name":"FlowPlay_office_1","category_code":"games_video","latitude":47.6015315,"longitude":-122.335943}
-{"name":"Trivop_office_1","category_code":"web","latitude":48.8558532,"longitude":2.3365754}
-{"name":"MuseStorm_office_1","category_code":"web","latitude":37.368594,"longitude":-122.034021}
-{"name":"Cuil_office_1","category_code":"search","latitude":37.451124,"longitude":-122.166264}
-{"name":"Xobni_office_1","category_code":"software","latitude":37.789634,"longitude":-122.404052}
-{"name":"GroupSwim_office_1","category_code":"software","latitude":37.779558,"longitude":-122.393041}
-{"name":"EkkoTV_office_1","category_code":"games_video","latitude":37.369195,"longitude":-122.036849}
-{"name":"Worklight_office_1","category_code":"mobile","latitude":40.756799,"longitude":-73.976348}
-{"name":"SueEasy_office_1","category_code":"web","latitude":37.401355,"longitude":-122.104099}
-{"name":"Vestopia_office_1","category_code":"web","latitude":37.792262,"longitude":-122.403486}
-{"name":"3Jam_office_1","category_code":"mobile","latitude":37.765125,"longitude":-122.4044034}
-{"name":"Wikinvest_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"FriendFeed_office_1","category_code":"web","latitude":37.39248,"longitude":-122.072612}
-{"name":"RayV_office_1","category_code":"games_video","latitude":40.781159,"longitude":-73.978332}
-{"name":"Uptake_office_1","category_code":"web","latitude":37.443058,"longitude":-122.161674}
-{"name":"Polyvore_office_1","category_code":"web","latitude":37.386175,"longitude":-122.083487}
-{"name":"Treemo Labs_office_1","category_code":"mobile","latitude":47.620716,"longitude":-122.347533}
-{"name":"The Climate Corporation_office_1","category_code":"cleantech","latitude":37.782809,"longitude":-122.394354}
-{"name":"The Climate Corporation_office_2","category_code":"cleantech","latitude":47.5984767,"longitude":-122.3331466}
-{"name":"Automattic_office_1","category_code":"web","latitude":37.744274,"longitude":-122.421344}
-{"name":"Picnik_office_1","category_code":"web","latitude":47.610571,"longitude":-122.341769}
-{"name":"Tumblr_office_1","category_code":"web","latitude":40.743808,"longitude":-73.983626}
-{"name":"blinkbox_office_1","category_code":"games_video","latitude":51.520779,"longitude":-0.10759}
-{"name":"EchoSign_office_1","category_code":"web","latitude":37.445326,"longitude":-122.160671}
-{"name":"Crusher_office_1","category_code":"web","latitude":37.772542,"longitude":-122.430127}
-{"name":"Gydget_office_1","category_code":"web","latitude":37.791733,"longitude":-122.398398}
-{"name":"Songbird_office_1","category_code":"mobile","latitude":37.787126,"longitude":-122.39783}
-{"name":"Jango_office_1","category_code":"games_video","latitude":40.757929,"longitude":-73.985506}
-{"name":"Disqus_office_1","category_code":"web","latitude":37.786906,"longitude":-122.397672}
-{"name":"Pelago_office_1","category_code":"mobile","latitude":47.607065,"longitude":-122.335373}
-{"name":"Vringo_office_1","category_code":"software","latitude":40.7550005,"longitude":-73.9717364}
-{"name":"Zmags_office_3","category_code":"software","latitude":51.5111369,"longitude":-0.1247662}
-{"name":"Dipity_office_1","category_code":"web","latitude":37.781262,"longitude":-122.394958}
-{"name":"Loopt_office_1","category_code":"mobile","latitude":37.384717,"longitude":-122.081625}
-{"name":"Jackson Fish Market_office_1","category_code":"software","latitude":47.6018824,"longitude":-122.3355636}
-{"name":"RealSelf_office_1","category_code":"web","latitude":47.620716,"longitude":-122.347533}
-{"name":"RescueTime_office_1","category_code":"web","latitude":47.603577,"longitude":-122.335333}
-{"name":"GameLayers_office_1","category_code":"web","latitude":37.803847,"longitude":-122.402468}
-{"name":"UpNext_office_1","category_code":"mobile","latitude":40.757929,"longitude":-73.985506}
-{"name":"betNOW_office_1","category_code":"web","latitude":51.511599,"longitude":-0.126389}
-{"name":"Jott_office_1","category_code":"web","latitude":47.6139472,"longitude":-122.327807}
-{"name":"FFWD Wheels_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Uversity_office_2","category_code":"social","latitude":37.7749295,"longitude":-122.4194155}
-{"name":"BeliefNet_office_1","category_code":"web","latitude":40.740231,"longitude":-73.985433}
-{"name":"Spokeo_office_1","category_code":"web","latitude":37.40721,"longitude":-122.077602}
-{"name":"Ribbit_office_1","category_code":"mobile","latitude":37.386665,"longitude":-122.084171}
-{"name":"HubPages_office_1","category_code":"web","latitude":37.7876952,"longitude":-122.3991505}
-{"name":"Kosmix_office_1","category_code":"web","latitude":37.3867729,"longitude":-122.0752224}
-{"name":"AppJet_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"WeShow_office_1","category_code":"games_video","latitude":40.752516,"longitude":-73.973072}
-{"name":"GoLark_office_1","category_code":"web","latitude":40.7508,"longitude":-73.996122}
-{"name":"SnapVillage_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506}
-{"name":"Delve Networks_office_1","category_code":"games_video","latitude":47.600818,"longitude":-122.334117}
-{"name":"TravelMuse_office_1","category_code":"web","latitude":37.402802,"longitude":-122.117418}
-{"name":"Orglex_office_1","category_code":"web","latitude":40.797364,"longitude":-73.97785}
-{"name":"Outspark_office_1","category_code":"games_video","latitude":37.775196,"longitude":-122.419204}
-{"name":"AF83_office_1","category_code":"web","latitude":48.862063,"longitude":2.35022}
-{"name":"Zynga_office_1","category_code":"games_video","latitude":37.765158,"longitude":-122.404234}
-{"name":"Roost_office_1","category_code":"software","latitude":37.7891288,"longitude":-122.4020276}
-{"name":"WorldTV_office_2","category_code":"games_video","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"Lookery_office_1","category_code":"web","latitude":37.788266,"longitude":-122.403865}
-{"name":"XLR8 Mobile_office_1","category_code":"web","latitude":37.788827,"longitude":-122.38944}
-{"name":"Mill River Labs_office_1","category_code":"web","latitude":37.392962,"longitude":-122.079114}
-{"name":"PopShops_office_1","category_code":"web","latitude":47.6064,"longitude":-122.3308}
-{"name":"Massify_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506}
-{"name":"Mergelab_office_1","category_code":"web","latitude":47.599136,"longitude":-122.334393}
-{"name":"Openomy_office_1","category_code":"web","latitude":47.634444,"longitude":-122.3419}
-{"name":"idiomag_office_1","category_code":"games_video","latitude":51.500152,"longitude":-0.126236}
-{"name":"Metromole_office_1","category_code":"web","latitude":40.707253,"longitude":-74.007413}
-{"name":"Convos_office_1","category_code":"web","latitude":40.715145,"longitude":-74.005897}
-{"name":"Unknown Vector_office_1","category_code":"web","latitude":37.790032,"longitude":-122.404488}
-{"name":"Kazowie_office_1","category_code":"web","latitude":37.776467,"longitude":-122.395792}
-{"name":"HeadStrong Brain Gym_office_1","category_code":"software","latitude":40.75033,"longitude":-73.968173}
-{"name":"Paglo_office_1","category_code":"search","latitude":37.451255,"longitude":-122.117133}
-{"name":"What They Like_office_1","category_code":"web","latitude":37.7776778,"longitude":-122.3921102}
-{"name":"stickK_office_1","category_code":"web","latitude":40.744837,"longitude":-73.983843}
-{"name":"LyfeSystems_office_1","category_code":"web","latitude":47.634444,"longitude":-122.3419}
-{"name":"Bragster_office_1","category_code":"web","latitude":51.5220072,"longitude":-0.0766034}
-{"name":"amiando_office_2","category_code":"web","latitude":51.5248598,"longitude":-0.0836311}
-{"name":"GroundReport_office_1","category_code":"web","latitude":40.725568,"longitude":-73.998208}
-{"name":"Shelfari_office_1","category_code":"web","latitude":47.620716,"longitude":-122.347533}
-{"name":"Fat Goose_office_1","category_code":"web","latitude":37.7876175,"longitude":-122.4033943}
-{"name":"Social Gaming Network_office_1","category_code":"games_video","latitude":37.446823,"longitude":-122.161523}
-{"name":"Askablogr_office_1","category_code":"web","latitude":47.620716,"longitude":-122.347533}
-{"name":"doubleTwist_office_1","category_code":"software","latitude":37.775196,"longitude":-122.419204}
-{"name":"Tipped_office_1","category_code":"web","latitude":51.5211159,"longitude":-0.0778345}
-{"name":"GenieTown_office_1","category_code":"search","latitude":37.425773,"longitude":-122.144271}
-{"name":"8coupons_office_1","category_code":"web","latitude":40.7431477,"longitude":-73.9934288}
-{"name":"Raptr_office_1","category_code":"games_video","latitude":37.40384,"longitude":-122.07808}
-{"name":"Camlink_office_1","category_code":"games_video","latitude":40.757929,"longitude":-73.985506}
-{"name":"SendMe_office_1","category_code":"mobile","latitude":37.787126,"longitude":-122.39783}
-{"name":"Kluster_office_1","category_code":"web","latitude":40.723652,"longitude":-73.985281}
-{"name":"Blog Talk Radio_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506}
-{"name":"Tiny Pictures_office_1","category_code":"mobile","latitude":37.781002,"longitude":-122.406912}
-{"name":"Issuu_office_1","category_code":"web","latitude":37.4784804,"longitude":-122.1514101}
-{"name":"Outbrain_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506}
-{"name":"The Industry Standard_office_1","category_code":"web","latitude":37.783151,"longitude":-122.393323}
-{"name":"PhotoCrank_office_1","category_code":"web","latitude":37.445326,"longitude":-122.160671}
-{"name":"Gamers Media_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506}
-{"name":"Zilpy_office_1","category_code":"web","latitude":37.419156,"longitude":-122.075413}
-{"name":"Totspot_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506}
-{"name":"Heavy Electrons_office_1","category_code":"web","latitude":37.7809512,"longitude":-122.4025016}
-{"name":"Phreesia_office_1","category_code":"software","latitude":40.739794,"longitude":-73.985878}
-{"name":"Fanpop_office_1","category_code":"web","latitude":37.758229,"longitude":-122.439512}
-{"name":"LiveHit_office_1","category_code":"search","latitude":37.445381,"longitude":-122.160753}
-{"name":"Zicasso_office_1","category_code":"web","latitude":37.388022,"longitude":-122.07431}
-{"name":"Tripology_office_1","category_code":"web","latitude":40.746883,"longitude":-73.983969}
-{"name":"Thrive_office_1","category_code":"web","latitude":40.718871,"longitude":-74.00118}
-{"name":"Giant Realm_office_1","category_code":"web","latitude":40.7566658,"longitude":-73.9827553}
-{"name":"Clickpass_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"SearchMe_office_1","category_code":"search","latitude":37.386665,"longitude":-122.084171}
-{"name":"SearchMe_office_2","category_code":"search","latitude":37.793473,"longitude":-122.402667}
-{"name":"Discovery Engine_office_1","category_code":"search","latitude":37.800356,"longitude":-122.402609}
-{"name":"Next New Networks_office_1","category_code":"web","latitude":40.743808,"longitude":-73.983626}
-{"name":"Snaptalent_office_1","category_code":"web","latitude":37.786906,"longitude":-122.397672}
-{"name":"ShareThis_office_1","category_code":"social","latitude":37.4203945,"longitude":-122.0872274}
-{"name":"Elastra_office_1","category_code":"software","latitude":37.791137,"longitude":-122.391843}
-{"name":"Krillion_office_1","category_code":"web","latitude":37.391727,"longitude":-122.077597}
-{"name":"kwiry_office_1","category_code":"mobile","latitude":37.7885714,"longitude":-122.4035985}
-{"name":"MyBlogLog_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Coordinatr_office_1","category_code":"software","latitude":37.804477,"longitude":-122.427021}
-{"name":"Octopart_office_1","category_code":"search","latitude":37.750608,"longitude":-122.423581}
-{"name":"Dotsub_office_1","category_code":"games_video","latitude":40.7680901,"longitude":-73.9566761}
-{"name":"ReadBurner_office_1","category_code":"web","latitude":37.80391,"longitude":-122.4042586}
-{"name":"Dadaphile_office_1","category_code":"web","latitude":40.737284,"longitude":-73.955432}
-{"name":"Clipta_office_1","category_code":"games_video","latitude":37.3793718,"longitude":-122.0124404}
-{"name":"Viddyou_office_1","category_code":"games_video","latitude":37.775196,"longitude":-122.419204}
-{"name":"MyMiniLife_office_1","category_code":"games_video","latitude":37.437328,"longitude":-122.159928}
-{"name":"Uloop_office_1","category_code":"web","latitude":37.394126,"longitude":-122.079727}
-{"name":"DevHD_office_1","category_code":"web","latitude":37.46629,"longitude":-122.195057}
-{"name":"Devolia_office_1","category_code":"web","latitude":48.859648,"longitude":2.348855}
-{"name":"Netbooks_office_1","category_code":"web","latitude":37.79471,"longitude":-122.40195}
-{"name":"TJAT_office_1","category_code":"mobile","latitude":51.516594,"longitude":-0.108111}
-{"name":"Pikum_office_1","category_code":"games_video","latitude":51.539778,"longitude":-0.152998}
-{"name":"HelloTxt_office_1","category_code":"web","latitude":51.5235368,"longitude":-0.0808503}
-{"name":"Business Insider_office_1","category_code":"web","latitude":40.73906,"longitude":-73.990911}
-{"name":"Zemanta_office_1","category_code":"web","latitude":51.5141566,"longitude":-0.0934254}
-{"name":"Zemanta_office_2","category_code":"web","latitude":40.7387945,"longitude":-73.9939213}
-{"name":"Wakozi_office_1","category_code":"web","latitude":40.755409,"longitude":-73.992706}
-{"name":"TagCow_office_1","category_code":"web","latitude":47.620973,"longitude":-122.347276}
-{"name":"eYeka_office_1","category_code":"software","latitude":48.856667,"longitude":2.350987}
-{"name":"Noovo_office_1","category_code":"web","latitude":37.446382,"longitude":-122.155678}
-{"name":"Vello_office_1","category_code":"web","latitude":37.393895,"longitude":-122.078602}
-{"name":"stickychicken_office_1","category_code":"games_video","latitude":37.775196,"longitude":-122.419204}
-{"name":"Cellufun_office_1","category_code":"games_video","latitude":40.73993,"longitude":-73.9930489}
-{"name":"Sososher_office_1","category_code":"web","latitude":51.500152,"longitude":-0.126236}
-{"name":"Placecast_office_1","category_code":"mobile","latitude":37.773688,"longitude":-122.423468}
-{"name":"Wists_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506}
-{"name":"Kublax_office_1","category_code":"web","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"Weardrobe_office_1","category_code":"web","latitude":37.446662,"longitude":-122.164925}
-{"name":"Netcipia_office_1","category_code":"web","latitude":37.445326,"longitude":-122.160671}
-{"name":"Skewz_office_1","category_code":"web","latitude":37.3862,"longitude":-122.0826}
-{"name":"Pirillo Open Source CMS Project_office_1","category_code":"web","latitude":47.620716,"longitude":-122.347533}
-{"name":"Odeo_office_1","category_code":"web","latitude":40.753918,"longitude":-73.981237}
-{"name":"DotHomes_office_1","category_code":"search","latitude":51.500152,"longitude":-0.126236}
-{"name":"Krugle_office_1","category_code":"search","latitude":37.45604,"longitude":-122.165399}
-{"name":"Open Source Living_office_1","category_code":"software","latitude":51.500152,"longitude":-0.126236}
-{"name":"Boxbe_office_1","category_code":"web","latitude":37.800209,"longitude":-122.442592}
-{"name":"Someecards_office_1","category_code":"web","latitude":40.737778,"longitude":-73.979508}
-{"name":"mySupermarket_office_2","category_code":"web","latitude":51.513671,"longitude":-0.159205}
-{"name":"Foxmarks_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Nestoria_office_1","category_code":"search","latitude":51.5290669,"longitude":-0.0949082}
-{"name":"Mojiva_office_1","category_code":"mobile","latitude":40.7185614,"longitude":-73.998662}
-{"name":"NEHST Studios_office_1","category_code":"games_video","latitude":40.75451,"longitude":-73.992193}
-{"name":"Cutcaster_office_1","category_code":"web","latitude":37.79851,"longitude":-122.457454}
-{"name":"Heysan_office_1","category_code":"mobile","latitude":37.774997,"longitude":-122.410076}
-{"name":"alaTest_office_2","category_code":"web","latitude":40.727425,"longitude":-74.0057125}
-{"name":"GitHub_office_1","category_code":"software","latitude":37.775196,"longitude":-122.419204}
-{"name":"Compfight_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Sutros_office_1","category_code":"games_video","latitude":37.756922,"longitude":-122.42087}
-{"name":"InMobi_office_2","category_code":"mobile","latitude":37.4465496,"longitude":-122.1709208}
-{"name":"Macroaxis_office_1","category_code":"software","latitude":37.7896292,"longitude":-122.3998782}
-{"name":"TeachStreet_office_1","category_code":"web","latitude":47.6171788,"longitude":-122.3370801}
-{"name":"MUBI_office_1","category_code":"games_video","latitude":37.44236,"longitude":-122.161025}
-{"name":"Omnivents_office_1","category_code":"games_video","latitude":37.44296,"longitude":-122.151198}
-{"name":"Aardvark_office_1","category_code":"web","latitude":37.748676,"longitude":-122.415813}
-{"name":"Serious Business_office_1","category_code":"games_video","latitude":37.7893215,"longitude":-122.4013624}
-{"name":"Zigron_office_1","category_code":"software","latitude":37.796164,"longitude":-122.420903}
-{"name":"Lingoloopy_office_1","category_code":"web","latitude":51.500152,"longitude":-0.126236}
-{"name":"Center'd_office_1","category_code":"web","latitude":37.452992,"longitude":-122.185098}
-{"name":"Kabam_office_1","category_code":"games_video","latitude":37.3944561,"longitude":-122.0785314}
-{"name":"Profy_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"mappery_office_1","category_code":"web","latitude":37.7717185,"longitude":-122.4438929}
-{"name":"lollicode_office_1","category_code":"web","latitude":48.856667,"longitude":2.350987}
-{"name":"Kidmondo_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506}
-{"name":"HyperCalc_office_1","category_code":"software","latitude":40.757929,"longitude":-73.985506}
-{"name":"Yoono_office_1","category_code":"web","latitude":37.787204,"longitude":-122.397884}
-{"name":"Tabbery_office_1","category_code":"software","latitude":40.732525,"longitude":-73.990076}
-{"name":"VentureLoop_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Subway Crush_office_1","category_code":"web","latitude":40.743563,"longitude":-73.993274}
-{"name":"RemindBlast_office_1","category_code":"web","latitude":37.773727,"longitude":-122.401537}
-{"name":"Conenza_office_1","category_code":"software","latitude":47.603176,"longitude":-122.3333044}
-{"name":"Supercool School_office_1","category_code":"web","latitude":37.754332,"longitude":-122.416804}
-{"name":"Friend2Friend_office_1","category_code":"software","latitude":37.445739,"longitude":-122.161284}
-{"name":"GoMobo_office_1","category_code":"web","latitude":40.723839,"longitude":-74.0013669}
-{"name":"WebVet_office_1","category_code":"web","latitude":40.7717776,"longitude":-73.9513502}
-{"name":"Facilitas_office_1","category_code":"web","latitude":40.753931,"longitude":-73.991123}
-{"name":"Fuzz_office_1","category_code":"games_video","latitude":37.760524,"longitude":-122.387799}
-{"name":"Mozes_office_1","category_code":"mobile","latitude":37.445667,"longitude":-122.166911}
-{"name":"findingDulcinea_office_1","category_code":"search","latitude":40.7455579,"longitude":-73.9823449}
-{"name":"Fonemesh_office_1","category_code":"mobile","latitude":37.791128,"longitude":-122.398126}
-{"name":"Stitcher_office_1","category_code":"mobile","latitude":37.775196,"longitude":-122.419204}
-{"name":"YouPage Ltd_office_1","category_code":"search","latitude":51.498319,"longitude":-0.107143}
-{"name":"mywaves_office_1","category_code":"mobile","latitude":37.3886,"longitude":-122.016779}
-{"name":"Zoosk_office_1","category_code":"social","latitude":37.7726402,"longitude":-122.4099154}
-{"name":"Worship Journal_office_1","category_code":"web","latitude":51.517076,"longitude":-0.150417}
-{"name":"Olark_office_1","category_code":"software","latitude":37.400465,"longitude":-122.073003}
-{"name":"Elite Renting_office_1","category_code":"web","latitude":47.619767,"longitude":-122.33651}
-{"name":"Lookfab_office_1","category_code":"web","latitude":47.615417,"longitude":-122.294485}
-{"name":"Transpera_office_1","category_code":"mobile","latitude":37.785792,"longitude":-122.405081}
-{"name":"Flixya_office_1","category_code":"web","latitude":37.7764671,"longitude":-122.3957917}
-{"name":"Porvus_office_1","category_code":"software","latitude":37.372509,"longitude":-122.038205}
-{"name":"Infectious_office_1","category_code":"web","latitude":37.771927,"longitude":-122.410217}
-{"name":"Phreadz_office_1","category_code":"web","latitude":51.500152,"longitude":-0.126236}
-{"name":"Zefanclub_office_1","category_code":"web","latitude":48.868478,"longitude":2.339843}
-{"name":"SFentrepreneur_office_1","category_code":"web","latitude":37.78597,"longitude":-122.437262}
-{"name":"Pinch Media_office_1","category_code":"software","latitude":40.757929,"longitude":-73.985506}
-{"name":"Hive7_office_1","category_code":"games_video","latitude":37.44296,"longitude":-122.151198}
-{"name":"Offbeat Guides_office_1","category_code":"web","latitude":37.788408,"longitude":-122.405412}
-{"name":"Sazell_office_1","category_code":"web","latitude":51.500152,"longitude":-0.126236}
-{"name":"Backblaze_office_1","category_code":"software","latitude":37.44296,"longitude":-122.151198}
-{"name":"TuneCore_office_1","category_code":"games_video","latitude":40.704382,"longitude":-73.986572}
-{"name":"Cooliris_office_1","category_code":"web","latitude":37.421447,"longitude":-122.141604}
-{"name":"FoxyMelody_office_1","category_code":"web","latitude":40.74149,"longitude":-74.000709}
-{"name":"WSO2_office_1","category_code":"software","latitude":37.390918,"longitude":-122.080843}
-{"name":"Crowd Science_office_1","category_code":"web","latitude":37.419041,"longitude":-122.087471}
-{"name":"TickerHound_office_1","category_code":"web","latitude":40.728623,"longitude":-73.991924}
-{"name":"Strateer_office_1","category_code":"web","latitude":40.714521,"longitude":-74.007072}
-{"name":"StartForce_office_1","category_code":"web","latitude":37.796164,"longitude":-122.420903}
-{"name":"CultureMob_office_1","category_code":"web","latitude":47.603357,"longitude":-122.33501}
-{"name":"Tapulous_office_1","category_code":"mobile","latitude":37.444332,"longitude":-122.161018}
-{"name":"Ziki_office_1","category_code":"web","latitude":40.733276,"longitude":-73.9932793}
-{"name":"Lingro_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Grid Net_office_1","category_code":"software","latitude":37.781265,"longitude":-122.393229}
-{"name":"HealthiNation_office_1","category_code":"web","latitude":40.739341,"longitude":-73.988357}
-{"name":"zintin_office_1","category_code":"mobile","latitude":37.422876,"longitude":-122.199368}
-{"name":"Ziippi_office_1","category_code":"web","latitude":37.4440981,"longitude":-122.1612868}
-{"name":"iPling_office_1","category_code":"mobile","latitude":37.791391,"longitude":-122.402859}
-{"name":"Vivaty_office_1","category_code":"web","latitude":37.48032,"longitude":-122.178371}
-{"name":"NeighborCity_office_1","category_code":"web","latitude":37.775392,"longitude":-122.412214}
-{"name":"Trusera_office_1","category_code":"web","latitude":47.617122,"longitude":-122.305994}
-{"name":"Wigadoo_office_1","category_code":"web","latitude":51.5016514,"longitude":-0.0944873}
-{"name":"Lolz_office_1","category_code":"web","latitude":40.743563,"longitude":-73.993274}
-{"name":"Sonibyte_office_1","category_code":"web","latitude":40.769466,"longitude":-73.950845}
-{"name":"NewsOrViews_office_1","category_code":"web","latitude":37.780134,"longitude":-122.396744}
-{"name":"LinQpay_office_3","category_code":"mobile","latitude":51.514193,"longitude":-0.146431}
-{"name":"Jibe Mobile_office_1","category_code":"mobile","latitude":37.4186097,"longitude":-122.0937686}
-{"name":"NOLOH_office_1","category_code":"software","latitude":40.762975,"longitude":-73.9674}
-{"name":"Keibi Technologies_office_1","category_code":"software","latitude":37.787646,"longitude":-122.402759}
-{"name":"BountyJobs_office_1","category_code":"web","latitude":40.754211,"longitude":-73.97917}
-{"name":"VBS TV_office_1","category_code":"games_video","latitude":40.720764,"longitude":-73.957968}
-{"name":"Imagekind_office_1","category_code":"web","latitude":47.617732,"longitude":-122.357317}
-{"name":"Aloqa_office_2","category_code":"mobile","latitude":37.43938,"longitude":-122.158804}
-{"name":"Overstream_office_1","category_code":"games_video","latitude":37.791391,"longitude":-122.402859}
-{"name":"PodOmatic_office_1","category_code":"web","latitude":37.776271,"longitude":-122.396506}
-{"name":"My Damn Channel_office_1","category_code":"games_video","latitude":40.754762,"longitude":-73.988543}
-{"name":"DailyCaption_office_1","category_code":"web","latitude":37.4441726,"longitude":-122.1632941}
-{"name":"Nalpeiron_office_1","category_code":"software","latitude":37.4498742,"longitude":-122.1209066}
-{"name":"CleanLoop_office_1","category_code":"cleantech","latitude":37.775196,"longitude":-122.419204}
-{"name":"Arsenal Interactive_office_1","category_code":"mobile","latitude":37.429674,"longitude":-122.100333}
-{"name":"Posterous_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Expensure_office_1","category_code":"mobile","latitude":51.500152,"longitude":-0.126236}
-{"name":"Veeple_office_1","category_code":"games_video","latitude":37.421142,"longitude":-122.101182}
-{"name":"Pluribo_office_1","category_code":"software","latitude":40.751293,"longitude":-73.978887}
-{"name":"wikiHow_office_1","category_code":"web","latitude":37.453657,"longitude":-122.182037}
-{"name":"Open Places_office_1","category_code":"web","latitude":37.758352,"longitude":-122.398379}
-{"name":"Genbook_office_1","category_code":"web","latitude":37.789902,"longitude":-122.4007791}
-{"name":"TweetDeck_office_1","category_code":"software","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"Spill_office_1","category_code":"games_video","latitude":40.72616,"longitude":-74.006023}
-{"name":"GlocalReach_office_1","category_code":"mobile","latitude":51.5208247,"longitude":-0.1219851}
-{"name":"Flowgram_office_1","category_code":"web","latitude":37.7710177,"longitude":-122.4025976}
-{"name":"Imara Corporation_office_1","category_code":"cleantech","latitude":37.478117,"longitude":-122.14104}
-{"name":"Airtag_office_1","category_code":"mobile","latitude":40.704213,"longitude":-74.0082089}
-{"name":"GEN247_office_1","category_code":"games_video","latitude":40.727434,"longitude":-73.9447994}
-{"name":"Bitly_office_1","category_code":"web","latitude":40.74034,"longitude":-74.00721}
-{"name":"Fixie_office_1","category_code":"software","latitude":47.6042792,"longitude":-122.3374372}
-{"name":"Urbanspoon_office_1","category_code":"web","latitude":47.6420401,"longitude":-122.3263922}
-{"name":"Involver_office_1","category_code":"software","latitude":37.788653,"longitude":-122.401333}
-{"name":"Snagsta_office_1","category_code":"search","latitude":51.4761694,"longitude":-0.1400366}
-{"name":"Kappa Prime_office_1","category_code":"web","latitude":51.498067,"longitude":-0.175393}
-{"name":"EcoFlip_office_1","category_code":"web","latitude":37.796164,"longitude":-122.420903}
-{"name":"GigMaven_office_1","category_code":"games_video","latitude":40.724289,"longitude":-73.980587}
-{"name":"Scavenja_office_1","category_code":"games_video","latitude":37.780134,"longitude":-122.396744}
-{"name":"muzu tv_office_2","category_code":"web","latitude":51.513678,"longitude":-0.13063}
-{"name":"muzu tv_office_3","category_code":"web","latitude":40.757716,"longitude":-73.972321}
-{"name":"ArtistForce_office_2","category_code":"software","latitude":40.70299,"longitude":-73.983471}
-{"name":"LookupPage_office_1","category_code":"search","latitude":51.500446,"longitude":-0.081486}
-{"name":"Lexy_office_1","category_code":"games_video","latitude":37.786906,"longitude":-122.397672}
-{"name":"OpenDrive_office_1","category_code":"software","latitude":37.794043,"longitude":-122.39736}
-{"name":"Carbonetworks_office_1","category_code":"cleantech","latitude":37.805289,"longitude":-122.404448}
-{"name":"Overtime Media_office_1","category_code":"web","latitude":40.779947,"longitude":-73.953502}
-{"name":"StyleCard_office_1","category_code":"web","latitude":40.738137,"longitude":-74.0058}
-{"name":"Rofo_office_1","category_code":"search","latitude":37.781689,"longitude":-122.391061}
-{"name":"CarbonFlow_office_1","category_code":"software","latitude":37.779097,"longitude":-122.39365}
-{"name":"CarbonFlow_office_3","category_code":"software","latitude":51.500152,"longitude":-0.126236}
-{"name":"Publictivity_office_1","category_code":"software","latitude":37.411846,"longitude":-122.1295}
-{"name":"Huddler_office_1","category_code":"web","latitude":37.7893215,"longitude":-122.4013624}
-{"name":"Jootware_office_1","category_code":"games_video","latitude":47.6141,"longitude":-122.33763}
-{"name":"Sweemo_office_1","category_code":"web","latitude":51.5277086,"longitude":-0.1227806}
-{"name":"Anvato_office_1","category_code":"games_video","latitude":37.400689,"longitude":-122.0572}
-{"name":"Zorap_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Hunch_office_1","category_code":"web","latitude":40.741179,"longitude":-73.993182}
-{"name":"ngmoco_office_1","category_code":"games_video","latitude":37.7705096,"longitude":-122.4015807}
-{"name":"XB Labs_office_1","category_code":"software","latitude":40.755329,"longitude":-73.991605}
-{"name":"Local Marketers_office_1","category_code":"web","latitude":47.5989681,"longitude":-122.3329036}
-{"name":"RankBoom_office_1","category_code":"web","latitude":37.4459832,"longitude":-122.1490582}
-{"name":"Zentu_office_1","category_code":"software","latitude":37.448491,"longitude":-122.180281}
-{"name":"Conductor_office_1","category_code":"search","latitude":40.746332,"longitude":-73.982596}
-{"name":"YellowSpaces_office_1","category_code":"web","latitude":40.739867,"longitude":-73.990024}
-{"name":"Ecolect_office_1","category_code":"cleantech","latitude":37.776769,"longitude":-122.410111}
-{"name":"Orinea_office_1","category_code":"web","latitude":48.8785721,"longitude":2.3249952}
-{"name":"Integrate_office_1","category_code":"software","latitude":40.7481039,"longitude":-74.0353787}
-{"name":"Snipd_office_1","category_code":"games_video","latitude":37.437328,"longitude":-122.159928}
-{"name":"Frogmetrics_office_1","category_code":"web","latitude":40.7286261,"longitude":-73.9555369}
-{"name":"LockerDome_office_2","category_code":"social","latitude":40.7272544,"longitude":-74.0057152}
-{"name":"ZManda_office_1","category_code":"software","latitude":37.3725243,"longitude":-122.035963}
-{"name":"vufind_office_1","category_code":"mobile","latitude":37.424614,"longitude":-122.145153}
-{"name":"PX Interactive_office_1","category_code":"software","latitude":37.781754,"longitude":-122.407709}
-{"name":"Fluther_office_1","category_code":"web","latitude":37.758062,"longitude":-122.418642}
-{"name":"Lyft_office_1","category_code":"software","latitude":37.7899027,"longitude":-122.4007846}
-{"name":"Carticipate_office_1","category_code":"mobile","latitude":37.782101,"longitude":-122.389519}
-{"name":"Shattered Reality Interactive_office_1","category_code":"games_video","latitude":37.783046,"longitude":-122.394067}
-{"name":"Mobclix_office_1","category_code":"mobile","latitude":37.448598,"longitude":-122.158497}
-{"name":"FohBoh_office_1","category_code":"social","latitude":37.7924253,"longitude":-122.4010019}
-{"name":"ShopCastTV_office_1","category_code":"mobile","latitude":37.7881481,"longitude":-122.3943387}
-{"name":"Birdpost_office_1","category_code":"web","latitude":37.452011,"longitude":-122.182824}
-{"name":"Dada Entertainment_office_1","category_code":"mobile","latitude":40.7543,"longitude":-73.981847}
-{"name":"Jumptap_office_2","category_code":"mobile","latitude":40.751478,"longitude":-73.980305}
-{"name":"FairSoftware_office_1","category_code":"web","latitude":37.386773,"longitude":-122.075222}
-{"name":"TextMarks_office_1","category_code":"mobile","latitude":37.79289,"longitude":-122.428193}
-{"name":"plaYce_office_1","category_code":"games_video","latitude":37.80204,"longitude":-122.438231}
-{"name":"PeopleBrowsr_office_1","category_code":"web","latitude":37.459112,"longitude":-122.142326}
-{"name":"Bojam_office_1","category_code":"games_video","latitude":37.448598,"longitude":-122.158497}
-{"name":"Twonq_office_1","category_code":"web","latitude":37.794124,"longitude":-122.403223}
-{"name":"Postbox_office_1","category_code":"software","latitude":37.758737,"longitude":-122.388336}
-{"name":"Producteev_office_1","category_code":"software","latitude":40.775309,"longitude":-73.983656}
-{"name":"Papervitamins_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951}
-{"name":"GoPlanit_office_1","category_code":"web","latitude":37.791576,"longitude":-122.399363}
-{"name":"GoodGuide_office_1","category_code":"web","latitude":37.7983181,"longitude":-122.4000032}
-{"name":"Angstro_office_1","category_code":"software","latitude":37.444393,"longitude":-122.163139}
-{"name":"Divvy Systems_office_1","category_code":"web","latitude":47.61321,"longitude":-122.342169}
-{"name":"Briteclick_office_1","category_code":"search","latitude":40.708093,"longitude":-74.01312}
-{"name":"Lolapps_office_1","category_code":"web","latitude":37.7870923,"longitude":-122.3999719}
-{"name":"Connectbeam_office_1","category_code":"software","latitude":37.401818,"longitude":-122.050565}
-{"name":"Kidos_office_1","category_code":"games_video","latitude":40.768058,"longitude":-73.956599}
-{"name":"Kidos_office_2","category_code":"games_video","latitude":40.714056,"longitude":-73.957854}
-{"name":"photothread_office_1","category_code":"web","latitude":40.721583,"longitude":-74.004441}
-{"name":"Pixelpipe_office_1","category_code":"mobile","latitude":37.764395,"longitude":-122.401024}
-{"name":"Samepoint_office_1","category_code":"web","latitude":40.741441,"longitude":-73.999675}
-{"name":"Scripped_office_1","category_code":"software","latitude":37.7749295,"longitude":-122.4194155}
-{"name":"Petciety_office_1","category_code":"web","latitude":40.753207,"longitude":-73.995886}
-{"name":"DESIGN about TOWN_office_1","category_code":"web","latitude":37.797909,"longitude":-122.403312}
-{"name":"SuiteMatch_office_1","category_code":"web","latitude":40.747005,"longitude":-74.039011}
-{"name":"Getfugu_office_1","category_code":"software","latitude":37.771706,"longitude":-122.402683}
-{"name":"AppVee_office_1","category_code":"mobile","latitude":37.775196,"longitude":-122.419204}
-{"name":"Meet Now Live_office_1","category_code":"mobile","latitude":40.777072,"longitude":-73.987036}
-{"name":"Buzzd_office_1","category_code":"mobile","latitude":40.733928,"longitude":-73.991334}
-{"name":"PCIQ_office_1","category_code":"web","latitude":51.515374,"longitude":-0.130109}
-{"name":"PROJECT DIRT_office_1","category_code":"web","latitude":37.443,"longitude":-122.159291}
-{"name":"The Company Database_office_1","category_code":"web","latitude":40.764481,"longitude":-73.970266}
-{"name":"Brightstorm_office_1","category_code":"games_video","latitude":37.804619,"longitude":-122.371203}
-{"name":"ecomii_office_1","category_code":"cleantech","latitude":40.743157,"longitude":-74.006513}
-{"name":"Artefact_office_1","category_code":"software","latitude":47.611718,"longitude":-122.345874}
-{"name":"OUTSHOUTS_office_1","category_code":"games_video","latitude":37.48413,"longitude":-122.169472}
-{"name":"SearchSalad_office_1","category_code":"search","latitude":51.509905,"longitude":-0.145438}
-{"name":"SocialMoms_office_1","category_code":"web","latitude":37.443,"longitude":-122.159291}
-{"name":"BoxCycle_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"CityVoter_office_1","category_code":"web","latitude":42.358184,"longitude":-71.106389}
-{"name":"PicApp_office_1","category_code":"web","latitude":37.79402,"longitude":-122.4031242}
-{"name":"Bloglovin_office_2","category_code":"web","latitude":40.740308,"longitude":-74.007199}
-{"name":"findwell_office_1","category_code":"web","latitude":47.627368,"longitude":-122.34229}
-{"name":"GeoPostcodes_office_1","category_code":"web","latitude":51.517899,"longitude":-0.146484}
-{"name":"Whole Travel_office_1","category_code":"search","latitude":37.445739,"longitude":-122.161284}
-{"name":"Calameo_office_1","category_code":"web","latitude":48.871174,"longitude":2.308019}
-{"name":"Visuamobile_office_1","category_code":"software","latitude":48.8691369,"longitude":2.3602202}
-{"name":"One Season_office_1","category_code":"games_video","latitude":37.775196,"longitude":-122.419204}
-{"name":"Healism_office_2","category_code":"web","latitude":40.756054,"longitude":-73.986951}
-{"name":"Healism_office_3","category_code":"web","latitude":48.856667,"longitude":2.350987}
-{"name":"Reframe It_office_1","category_code":"web","latitude":37.782163,"longitude":-122.400591}
-{"name":"Nexenta Systems_office_1","category_code":"software","latitude":37.444098,"longitude":-122.161287}
-{"name":"SolFocus_office_1","category_code":"cleantech","latitude":37.3987372,"longitude":-122.0497918}
-{"name":"Britely_office_1","category_code":"web","latitude":37.458766,"longitude":-122.172519}
-{"name":"Buzzr_office_1","category_code":"software","latitude":40.740941,"longitude":-73.992609}
-{"name":"GroupCard_office_1","category_code":"web","latitude":37.451401,"longitude":-122.182558}
-{"name":"GotGame_office_1","category_code":"games_video","latitude":37.77772,"longitude":-122.395785}
-{"name":"ReverbNation_office_2","category_code":"software","latitude":40.718888,"longitude":-74.001169}
-{"name":"For Your Imagination_office_1","category_code":"games_video","latitude":40.744594,"longitude":-73.989698}
-{"name":"RateZip_office_1","category_code":"web","latitude":40.731085,"longitude":-73.992633}
-{"name":"Iteria, SARL_office_1","category_code":"web","latitude":48.856667,"longitude":2.350987}
-{"name":"CarZen_office_1","category_code":"web","latitude":40.76945,"longitude":-73.951865}
-{"name":"BaseClip_office_1","category_code":"web","latitude":48.8790183,"longitude":2.3379063}
-{"name":"Mogees_office_1","category_code":"mobile","latitude":37.400465,"longitude":-122.073003}
-{"name":"SocialGO_office_1","category_code":"social","latitude":51.5027669,"longitude":-0.0925694}
-{"name":"TasteSpace_office_1","category_code":"web","latitude":40.747819,"longitude":-73.982544}
-{"name":"Stupeflix_office_1","category_code":"web","latitude":48.8785618,"longitude":2.3603689}
-{"name":"DocVerse_office_1","category_code":"web","latitude":37.788115,"longitude":-122.397141}
-{"name":"Cookstr_office_1","category_code":"web","latitude":40.707268,"longitude":-74.001724}
-{"name":"RankAbove_office_2","category_code":"software","latitude":40.748047,"longitude":-73.992402}
-{"name":"Yipit_office_1","category_code":"web","latitude":40.744618,"longitude":-73.987764}
-{"name":"Tivix_office_1","category_code":"software","latitude":37.792303,"longitude":-122.423132}
-{"name":"Virgance_office_1","category_code":"web","latitude":37.781262,"longitude":-122.394958}
-{"name":"WordNetworks_office_1","category_code":"web","latitude":37.782886,"longitude":-122.394635}
-{"name":"148Apps_office_1","category_code":"software","latitude":37.775196,"longitude":-122.419204}
-{"name":"TubeSpree_office_1","category_code":"games_video","latitude":37.781386,"longitude":-122.421406}
-{"name":"Aghreni Technologies_office_2","category_code":"software","latitude":40.744549,"longitude":-73.988071}
-{"name":"DeepDyve_office_1","category_code":"web","latitude":37.377787,"longitude":-122.029217}
-{"name":"WeTxt_office_1","category_code":"mobile","latitude":40.740837,"longitude":-74.003466}
-{"name":"NOM_office_1","category_code":"web","latitude":40.740672,"longitude":-73.992632}
-{"name":"Decho_office_1","category_code":"web","latitude":47.6024156,"longitude":-122.3326145}
-{"name":"VideoMark_office_1","category_code":"web","latitude":48.8687217,"longitude":2.3593849}
-{"name":"Mobyko_office_1","category_code":"mobile","latitude":51.5124201,"longitude":-0.137494}
-{"name":"Fuzzyshot_office_1","category_code":"mobile","latitude":37.400465,"longitude":-122.073003}
-{"name":"Behind the Burner_office_1","category_code":"web","latitude":40.753918,"longitude":-73.981237}
-{"name":"BarterQuest_office_1","category_code":"web","latitude":40.748634,"longitude":-73.994203}
-{"name":"Pierlis_office_1","category_code":"software","latitude":48.8762407,"longitude":2.3503689}
-{"name":"Pilotlite_office_1","category_code":"games_video","latitude":40.7166822,"longitude":-74.005398}
-{"name":"Tiiptop_office_1","category_code":"web","latitude":48.8566667,"longitude":2.3509871}
-{"name":"Synthesio_office_2","category_code":"software","latitude":40.7431836,"longitude":-73.9935011}
-{"name":"Carbonmade_office_1","category_code":"web","latitude":40.74727,"longitude":-73.9800645}
-{"name":"Open Mountain_office_1","category_code":"software","latitude":37.795276,"longitude":-122.429788}
-{"name":"Webedia_office_1","category_code":"web","latitude":48.856614,"longitude":2.3522219}
-{"name":"Odiogo_office_1","category_code":"mobile","latitude":40.756054,"longitude":-73.986951}
-{"name":"BeatPick_office_1","category_code":"games_video","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"Valu Valu_office_1","category_code":"games_video","latitude":47.6254784,"longitude":-122.3564234}
-{"name":"Matter Network_office_1","category_code":"cleantech","latitude":37.7618242,"longitude":-122.3985871}
-{"name":"People Capital_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951}
-{"name":"Connectize_office_1","category_code":"software","latitude":37.775196,"longitude":-122.419204}
-{"name":"Lingueo_office_1","category_code":"web","latitude":48.8787097,"longitude":2.3638456}
-{"name":"CyberSynchs_office_1","category_code":"mobile","latitude":40.745534,"longitude":-73.990033}
-{"name":"Statix TV_office_1","category_code":"web","latitude":37.443,"longitude":-122.159291}
-{"name":"Moovement_office_1","category_code":"search","latitude":48.8692414,"longitude":2.3322234}
-{"name":"gliider_office_1","category_code":"web","latitude":40.702692,"longitude":-73.989613}
-{"name":"Grapevine Talk_office_2","category_code":"software","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"Circle of Moms_office_1","category_code":"web","latitude":37.7890183,"longitude":-122.3915063}
-{"name":"Skipso_office_1","category_code":"cleantech","latitude":51.5206245,"longitude":-0.1168286}
-{"name":"able2know_office_1","category_code":"web","latitude":47.5990906,"longitude":-122.335109}
-{"name":"Unison Technologies_office_1","category_code":"software","latitude":40.7645772,"longitude":-73.9799007}
-{"name":"PrestaShop_office_1","category_code":"software","latitude":48.8687217,"longitude":2.3593849}
-{"name":"Modelinia_office_1","category_code":"web","latitude":40.739867,"longitude":-73.990024}
-{"name":"Livekick_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951}
-{"name":"Snappr_office_1","category_code":"mobile","latitude":37.762718,"longitude":-122.414259}
-{"name":"Give Real_office_1","category_code":"web","latitude":40.7250495,"longitude":-73.9970912}
-{"name":"StartupAgents_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Enversa Companies_office_2","category_code":"web","latitude":40.750179,"longitude":-73.976018}
-{"name":"Clikthrough_office_1","category_code":"software","latitude":37.7965781,"longitude":-122.4022856}
-{"name":"Qitera_office_1","category_code":"search","latitude":37.7581148,"longitude":-122.4184108}
-{"name":"Gawkk_office_1","category_code":"games_video","latitude":40.778635,"longitude":-73.984438}
-{"name":"Webzzle_office_1","category_code":"web","latitude":37.4417,"longitude":-122.1417}
-{"name":"3C Limited_office_1","category_code":"web","latitude":51.5026763,"longitude":-0.104579}
-{"name":"Stax Networks_office_1","category_code":"web","latitude":47.620973,"longitude":-122.347276}
-{"name":"EcoVadis_office_1","category_code":"cleantech","latitude":48.8545738,"longitude":2.3216223}
-{"name":"Indee_office_1","category_code":"games_video","latitude":37.8053241,"longitude":-122.4052761}
-{"name":"Proclivity Systems_office_1","category_code":"software","latitude":40.738954,"longitude":-73.992}
-{"name":"SupplierSelect_office_1","category_code":"web","latitude":51.5137321,"longitude":-0.1427993}
-{"name":"Why Hasn't He?_office_1","category_code":"games_video","latitude":40.7703479,"longitude":-73.9914834}
-{"name":"Implied Solutions_office_1","category_code":"software","latitude":47.6042663,"longitude":-122.3328401}
-{"name":"WattzOn_office_1","category_code":"cleantech","latitude":37.404486,"longitude":-122.112579}
-{"name":"IMedExchange_office_1","category_code":"web","latitude":47.6136485,"longitude":-122.3371174}
-{"name":"BeliefNetworks_office_2","category_code":"software","latitude":40.746944,"longitude":-73.983926}
-{"name":"Robotgalaxy_office_1","category_code":"games_video","latitude":40.737216,"longitude":-73.990947}
-{"name":"Fotohoo_office_1","category_code":"games_video","latitude":40.756054,"longitude":-73.986951}
-{"name":"Sonopia_office_1","category_code":"mobile","latitude":37.477944,"longitude":-122.151234}
-{"name":"Kaplan Index_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Dragonfly_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951}
-{"name":"Jasper Wireless_office_1","category_code":"mobile","latitude":37.394392,"longitude":-122.04221}
-{"name":"Fuego Nation_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"RingCube Technologies_office_1","category_code":"software","latitude":37.3915589,"longitude":-122.0702643}
-{"name":"5th Finger_office_1","category_code":"mobile","latitude":37.7900992,"longitude":-122.4021988}
-{"name":"Vibeex_office_1","category_code":"games_video","latitude":48.8566667,"longitude":2.3509871}
-{"name":"IAmInTown_office_1","category_code":"web","latitude":40.7370784,"longitude":-74.0348315}
-{"name":"CureTogether_office_1","category_code":"web","latitude":37.384297,"longitude":-122.072998}
-{"name":"Pano Logic_office_1","category_code":"software","latitude":37.477037,"longitude":-122.15164}
-{"name":"CareerPlayer_office_1","category_code":"games_video","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"Kramaley Games_office_1","category_code":"games_video","latitude":51.4944999,"longitude":-0.1479318}
-{"name":"Loqu8_office_1","category_code":"software","latitude":37.424839,"longitude":-122.100286}
-{"name":"Trutoon_office_1","category_code":"web","latitude":37.4459832,"longitude":-122.1490582}
-{"name":"LOO-LEE_office_1","category_code":"mobile","latitude":37.777145,"longitude":-122.471044}
-{"name":"Heyzap_office_1","category_code":"games_video","latitude":37.7905538,"longitude":-122.4041485}
-{"name":"Tripbase_office_1","category_code":"web","latitude":37.437328,"longitude":-122.159928}
-{"name":"PEX Card_office_1","category_code":"software","latitude":40.752539,"longitude":-73.987871}
-{"name":"Ticketpredator_office_1","category_code":"web","latitude":40.7438356,"longitude":-73.9890149}
-{"name":"WeMix_office_1","category_code":"web","latitude":40.7554379,"longitude":-73.9815358}
-{"name":"Skout_office_1","category_code":"social","latitude":37.7800539,"longitude":-122.3912492}
-{"name":"Emoshape_office_1","category_code":"software","latitude":51.5123833,"longitude":-0.1158832}
-{"name":"Comixology_office_1","category_code":"games_video","latitude":40.740512,"longitude":-73.987794}
-{"name":"trekaroo_office_1","category_code":"web","latitude":37.4561297,"longitude":-122.1235054}
-{"name":"Yakaz_office_1","category_code":"search","latitude":48.8675641,"longitude":2.34399}
-{"name":"Shmoop_office_1","category_code":"web","latitude":37.39,"longitude":-122.11}
-{"name":"Carrier IQ_office_1","category_code":"mobile","latitude":37.3955775,"longitude":-122.0833286}
-{"name":"CodeGlide_office_1","category_code":"software","latitude":37.7934643,"longitude":-122.3979712}
-{"name":"KODA_office_1","category_code":"web","latitude":37.788796,"longitude":-122.40971}
-{"name":"Jobulous_office_1","category_code":"web","latitude":40.7464969,"longitude":-74.0094471}
-{"name":"Gecko Audio_office_1","category_code":"software","latitude":37.437328,"longitude":-122.159928}
-{"name":"Music For Busy People_office_1","category_code":"games_video","latitude":40.727763,"longitude":-73.976169}
-{"name":"Delphix_office_1","category_code":"software","latitude":37.4239496,"longitude":-122.1011815}
-{"name":"Sensor Analytics_office_1","category_code":"software","latitude":37.775196,"longitude":-122.419204}
-{"name":"VouChaCha_office_1","category_code":"mobile","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"MediaMelon_office_1","category_code":"software","latitude":37.792968,"longitude":-122.40414}
-{"name":"SlideME_office_1","category_code":"mobile","latitude":47.5992095,"longitude":-122.3343564}
-{"name":"CollegeClickTV_office_1","category_code":"games_video","latitude":40.7495594,"longitude":-73.9916617}
-{"name":"Transifex_office_1","category_code":"software","latitude":37.4513629,"longitude":-122.1842112}
-{"name":"iCelebrate_office_1","category_code":"web","latitude":37.4441726,"longitude":-122.1632941}
-{"name":"Punch Entertainment_office_1","category_code":"software","latitude":37.4233698,"longitude":-122.0986859}
-{"name":"YOUnite_office_1","category_code":"web","latitude":37.388077,"longitude":-122.08316}
-{"name":"Jobnob_office_1","category_code":"search","latitude":37.7440202,"longitude":-122.4219405}
-{"name":"Superfish_office_1","category_code":"search","latitude":37.414271,"longitude":-122.134666}
-{"name":"3Degrees_office_1","category_code":"cleantech","latitude":37.7968492,"longitude":-122.457623}
-{"name":"Purebred Network_office_1","category_code":"web","latitude":37.443,"longitude":-122.159291}
-{"name":"SwitchGames_office_1","category_code":"games_video","latitude":40.7297485,"longitude":-73.9867361}
-{"name":"FreshNetworks_office_1","category_code":"software","latitude":51.5178123,"longitude":-0.11796}
-{"name":"Fliggo_office_1","category_code":"games_video","latitude":37.775196,"longitude":-122.419204}
-{"name":"Mendeley_office_1","category_code":"social","latitude":51.5224267,"longitude":-0.1046546}
-{"name":"Meedan_office_1","category_code":"search","latitude":37.786317,"longitude":-122.422503}
-{"name":"Diomede Storage_office_1","category_code":"cleantech","latitude":37.7753,"longitude":-122.4186}
-{"name":"GreenITers_office_1","category_code":"cleantech","latitude":37.443,"longitude":-122.159291}
-{"name":"TranZfinity_office_3","category_code":"mobile","latitude":51.5069206,"longitude":-0.1249337}
-{"name":"Crispy Gamer_office_1","category_code":"games_video","latitude":40.750597,"longitude":-73.985273}
-{"name":"Vanno_office_1","category_code":"web","latitude":37.796216,"longitude":-122.403755}
-{"name":"Optify_office_1","category_code":"software","latitude":47.603364,"longitude":-122.333359}
-{"name":"BrandFolium Corporation_office_1","category_code":"web","latitude":37.369195,"longitude":-122.036849}
-{"name":"Wee Web_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951}
-{"name":"TOMOS Software_office_1","category_code":"software","latitude":40.7504268,"longitude":-73.9768083}
-{"name":"Euclid Media_office_1","category_code":"web","latitude":37.4211164,"longitude":-122.2064234}
-{"name":"rent2friend_office_1","category_code":"web","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"iPharro Media_office_2","category_code":"software","latitude":40.7438356,"longitude":-73.9890149}
-{"name":"North by South_office_1","category_code":"software","latitude":37.776295,"longitude":-122.409893}
-{"name":"SpaBooker_office_1","category_code":"software","latitude":40.738567,"longitude":-73.987199}
-{"name":"ITDatabase_office_1","category_code":"software","latitude":37.778545,"longitude":-122.437716}
-{"name":"Subzero Software_office_1","category_code":"mobile","latitude":51.5347897,"longitude":-0.1080873}
-{"name":"PathMotion_office_1","category_code":"web","latitude":48.8704331,"longitude":2.3449804}
-{"name":"Zoombu_office_1","category_code":"search","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"userADgents_office_1","category_code":"mobile","latitude":48.8775197,"longitude":2.334266}
-{"name":"Transfer To_office_2","category_code":"mobile","latitude":40.705255,"longitude":-74.010983}
-{"name":"GameChanger Media_office_1","category_code":"software","latitude":40.7078343,"longitude":-74.0136605}
-{"name":"Z2Live_office_1","category_code":"games_video","latitude":47.6103008,"longitude":-122.3399782}
-{"name":"Fan Centric_office_2","category_code":"web","latitude":37.7805399,"longitude":-122.3968175}
-{"name":"Blog Traffic Exchange_office_1","category_code":"web","latitude":37.4484914,"longitude":-122.1802812}
-{"name":"betaworks_office_1","category_code":"social","latitude":40.74034,"longitude":-74.00721}
-{"name":"CleanTechies_office_1","category_code":"cleantech","latitude":37.7717185,"longitude":-122.4438929}
-{"name":"Discount Sports Tickets_office_1","category_code":"web","latitude":40.7028474,"longitude":-73.9906813}
-{"name":"TV Pixie_office_1","category_code":"web","latitude":51.5206682,"longitude":-0.1852079}
-{"name":"Swiffen_office_1","category_code":"games_video","latitude":51.5163382,"longitude":-0.0828173}
-{"name":"watercompare_office_1","category_code":"web","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"Moogi_office_1","category_code":"games_video","latitude":40.7217861,"longitude":-74.0094471}
-{"name":"Wowd_office_1","category_code":"search","latitude":37.448598,"longitude":-122.158497}
-{"name":"Twazzup_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"Thrillcall_office_1","category_code":"web","latitude":37.792324,"longitude":-122.401497}
-{"name":"MyCollegeCalendar_office_1","category_code":"web","latitude":37.7726402,"longitude":-122.4099154}
-{"name":"psychiatryRounds_office_1","category_code":"web","latitude":37.400465,"longitude":-122.073003}
-{"name":"Tweenjo_office_1","category_code":"web","latitude":51.5137747,"longitude":-0.1459893}
-{"name":"myGreek_office_1","category_code":"web","latitude":37.772287,"longitude":-122.42044}
-{"name":"Nirvaha_office_1","category_code":"software","latitude":47.6008008,"longitude":-122.3342585}
-{"name":"TrialX_office_1","category_code":"web","latitude":40.7277434,"longitude":-73.9893359}
-{"name":"Catchafire_office_1","category_code":"web","latitude":40.746417,"longitude":-73.983171}
-{"name":"Factery_office_1","category_code":"web","latitude":37.4484914,"longitude":-122.1802812}
-{"name":"Ayima_office_1","category_code":"search","latitude":51.5211504,"longitude":-0.1036021}
-{"name":"Bamboudesign_office_1","category_code":"mobile","latitude":37.775087,"longitude":-122.415199}
-{"name":"FledgeWing_office_1","category_code":"web","latitude":40.7322535,"longitude":-73.9874105}
-{"name":"Milo_office_1","category_code":"web","latitude":37.444531,"longitude":-122.163352}
-{"name":"Ratio Interactive_office_1","category_code":"software","latitude":47.5998944,"longitude":-122.3328866}
-{"name":"GroupieGuide_office_1","category_code":"web","latitude":47.6042792,"longitude":-122.3374372}
-{"name":"Healogica_office_1","category_code":"web","latitude":40.779959,"longitude":-73.976151}
-{"name":"Kidlandia_office_1","category_code":"web","latitude":37.8017938,"longitude":-122.4043215}
-{"name":"AppStoreHQ_office_1","category_code":"mobile","latitude":47.6447802,"longitude":-122.325878}
-{"name":"Nextstop_office_1","category_code":"web","latitude":37.7710177,"longitude":-122.4025976}
-{"name":"ArcTouch_office_1","category_code":"mobile","latitude":37.779868,"longitude":-122.392343}
-{"name":"Playdom_office_1","category_code":"games_video","latitude":37.393536,"longitude":-122.076747}
-{"name":"Firm58_office_2","category_code":"software","latitude":40.766734,"longitude":-73.988265}
-{"name":"AppNinjas_office_1","category_code":"mobile","latitude":37.7983181,"longitude":-122.4000032}
-{"name":"FanFeedr_office_1","category_code":"web","latitude":40.7395876,"longitude":-73.9928423}
-{"name":"Marketcetera_office_1","category_code":"software","latitude":37.788864,"longitude":-122.4008487}
-{"name":"Garlik_office_2","category_code":"software","latitude":40.7615818,"longitude":-73.970624}
-{"name":"Saavn_office_1","category_code":"games_video","latitude":40.743877,"longitude":-73.98618}
-{"name":"PlantSense_office_1","category_code":"web","latitude":37.7697623,"longitude":-122.4183929}
-{"name":"Flaggpole_office_1","category_code":"web","latitude":47.620973,"longitude":-122.347276}
-{"name":"Zensify_office_1","category_code":"web","latitude":51.4940757,"longitude":-0.146659}
-{"name":"Simply Good Media_office_1","category_code":"web","latitude":40.726517,"longitude":-74.032177}
-{"name":"YEAONAY_office_1","category_code":"web","latitude":40.751234,"longitude":-73.9952442}
-{"name":"Yoostar_office_1","category_code":"games_video","latitude":40.756054,"longitude":-73.986951}
-{"name":"ShopSavvy_office_1","category_code":"mobile","latitude":37.7770719,"longitude":-122.3966273}
-{"name":"ArtNeighbor_office_1","category_code":"web","latitude":40.7489381,"longitude":-73.9918181}
-{"name":"Sunrun_office_1","category_code":"cleantech","latitude":37.7871306,"longitude":-122.4041075}
-{"name":"GameGround_office_1","category_code":"games_video","latitude":40.756054,"longitude":-73.986951}
-{"name":"GottaPark_office_1","category_code":"web","latitude":37.7868333,"longitude":-122.4011603}
-{"name":"Udorse_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951}
-{"name":"YesOrNow_office_1","category_code":"web","latitude":48.882769,"longitude":2.336453}
-{"name":"Zookel_office_1","category_code":"web","latitude":51.5203268,"longitude":-0.0994596}
-{"name":"HURRYCAM_office_1","category_code":"web","latitude":48.8566667,"longitude":2.3509871}
-{"name":"isango!_office_1","category_code":"web","latitude":51.519816,"longitude":-0.1361616}
-{"name":"Bar Exchange_office_1","category_code":"web","latitude":51.5395914,"longitude":-0.1525048}
-{"name":"Finest Expert_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204}
-{"name":"One Simple Move_office_1","category_code":"web","latitude":37.800482,"longitude":-122.402922}
-{"name":"Padz_office_1","category_code":"search","latitude":51.5220763,"longitude":-0.1153003}
-{"name":"Strategist News_office_1","category_code":"web","latitude":40.7489381,"longitude":-73.9918181}
-{"name":"Tug_office_1","category_code":"search","latitude":51.5246619,"longitude":-0.0830772}
-{"name":"Disrupto_office_1","category_code":"web","latitude":40.714279,"longitude":-73.9565551}
-{"name":"Greenvoice_office_1","category_code":"web","latitude":51.5147349,"longitude":-0.0874239}
-{"name":"Ykone_office_1","category_code":"web","latitude":48.8566667,"longitude":2.3509871}
-{"name":"Sticher_office_1","category_code":"games_video","latitude":37.8093381,"longitude":-122.4166061}
-{"name":"Optimum Energy_office_1","category_code":"cleantech","latitude":47.598657,"longitude":-122.334614}
-{"name":"Optimum Energy_office_3","category_code":"cleantech","latitude":40.7518919,"longitude":-73.9875922}
-{"name":"BetKlub_office_1","category_code":"games_video","latitude":48.8787606,"longitude":2.3639174}
-{"name":"OwnEnergy_office_1","category_code":"cleantech","latitude":40.7028474,"longitude":-73.9906813}
-{"name":"Enternships_office_1","category_code":"web","latitude":51.5215279,"longitude":-0.1038219}
-{"name":"B32TRUST_office_1","category_code":"software","latitude":48.8566667,"longitude":2.3509871}
-{"name":"tarpipe_office_1","category_code":"web","latitude":48.8566667,"longitude":2.3509871}
-{"name":"Keen Software House_office_1","category_code":"games_video","latitude":51.5220763,"longitude":-0.1153003}
-{"name":"Azingo_office_1","category_code":"mobile","latitude":37.382162,"longitude":-122.036301}
-{"name":"TwtBks_office_1","category_code":"web","latitude":37.7611016,"longitude":-122.4160008}
-{"name":"FireScope_office_4","category_code":"software","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"Principle Power_office_1","category_code":"cleantech","latitude":47.5992095,"longitude":-122.3343564}
-{"name":"Flirtomatic_office_1","category_code":"social","latitude":51.5272363,"longitude":-0.0956262}
-{"name":"High Gear Media_office_1","category_code":"web","latitude":37.445335,"longitude":-122.15833}
-{"name":"Solairedirect_office_1","category_code":"cleantech","latitude":48.8745951,"longitude":2.3210737}
-{"name":"ChallengePost_office_1","category_code":"web","latitude":40.7408042,"longitude":-74.00717}
-{"name":"StyleCaster_office_1","category_code":"web","latitude":40.7450497,"longitude":-73.9900984}
-{"name":"AltaRock Energy_office_2","category_code":"cleantech","latitude":47.620973,"longitude":-122.347276}
-{"name":"GreenVolts_office_1","category_code":"cleantech","latitude":37.790153,"longitude":-122.398669}
-{"name":"Testplant_office_1","category_code":"software","latitude":51.517356,"longitude":-0.1037742}
-{"name":"famebook_office_3","category_code":"web","latitude":51.5001524,"longitude":-0.1262362}
-{"name":"famebook_office_4","category_code":"web","latitude":40.756054,"longitude":-73.986951}
-{"name":"Film Annex_office_1","category_code":"games_video","latitude":40.7464969,"longitude":-74.0094471}
-{"name":"DJ Nitrogen_office_1","category_code":"games_video","latitude":37.7841737,"longitude":-122.4494082}
-{"name":"ALOT_office_1","category_code":"software","latitude":40.72616,"longitude":-74.006023}
-{"name":"Conversition_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951}
-{"name":"PubliAtis_office_1","category_code":"software","latitude":48.8699947,"longitude":2.3406954}
-{"name":"acrossair_office_1","category_code":"mobile","latitude":51.5177425,"longitude":-0.1165365}
+{"name":"Wetpaint_office_2","category_code":"web","latitude":40.7237306,"longitude":-73.9964312,"rating":"Big_Companies"}
+{"name":"MeetMoi_office_1","category_code":"social","latitude":40.757929,"longitude":-73.985506,"rating":"Big_Companies"}
+{"name":"Joost_office_1","category_code":"games_video","latitude":40.7464969,"longitude":-74.0094471,"rating":"Startup"}
+{"name":"Twitter_office_1","category_code":"social","latitude":37.7768052,"longitude":-122.4169244,"rating":"Big_Companies"}
+{"name":"Powerset_office_1","category_code":"search","latitude":37.778613,"longitude":-122.395289,"rating":"Big_Companies"}
+{"name":"Kyte_office_1","category_code":"games_video","latitude":37.788482,"longitude":-122.409173,"rating":"Big_Companies"}
+{"name":"Wesabe_office_1","category_code":"web","latitude":37.793148,"longitude":-122.402567,"rating":"Startup"}
+{"name":"Livestream_office_1","category_code":"games_video","latitude":40.726155,"longitude":-73.995625,"rating":"Big_Companies"}
+{"name":"Pownce_office_1","category_code":"web","latitude":37.762541,"longitude":-122.397224,"rating":"Startup"}
+{"name":"Revision3_office_1","category_code":"games_video","latitude":37.757758,"longitude":-122.388243,"rating":"Startup"}
+{"name":"CastTV_office_1","category_code":"games_video","latitude":37.780716,"longitude":-122.393913,"rating":"Startup"}
+{"name":"iSkoot_office_2","category_code":"mobile","latitude":37.780134,"longitude":-122.396744,"rating":"Startup"}
+{"name":"Funny Or Die_office_1","category_code":"games_video","latitude":37.421621,"longitude":-122.137444,"rating":"Startup"}
+{"name":"Zooomr_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Pageflakes_office_1","category_code":"web","latitude":37.758113,"longitude":-122.414689,"rating":"Big_Companies"}
+{"name":"Instructables_office_1","category_code":"web","latitude":37.7791761,"longitude":-122.4058887,"rating":"Startup"}
+{"name":"Swivel_office_1","category_code":"search","latitude":37.789268,"longitude":-122.395184,"rating":"Startup"}
+{"name":"Bebo_office_1","category_code":"web","latitude":37.782103,"longitude":-122.401116,"rating":"Startup"}
+{"name":"Eventbrite_office_1","category_code":"web","latitude":37.779507,"longitude":-122.39071,"rating":"Big_Companies"}
+{"name":"Terabitz_office_1","category_code":"web","latitude":37.437328,"longitude":-122.159928,"rating":"Big_Companies"}
+{"name":"Seesmic_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Big_Companies"}
+{"name":"oDesk_office_1","category_code":"web","latitude":37.479952,"longitude":-122.178557,"rating":"Big_Companies"}
+{"name":"Ujogo_office_1","category_code":"web","latitude":37.76785,"longitude":-122.392861,"rating":"Startup"}
+{"name":"Flixster_office_1","category_code":"web","latitude":37.766909,"longitude":-122.406676,"rating":"Big_Companies"}
+{"name":"GoingOn_office_1","category_code":"software","latitude":37.782263,"longitude":-122.392142,"rating":"Big_Companies"}
+{"name":"spigit_office_3","category_code":"software","latitude":51.5170385,"longitude":-0.1394759,"rating":"Big_Companies"}
+{"name":"Jaxtr_office_1","category_code":"mobile","latitude":37.451026,"longitude":-122.18676,"rating":"Big_Companies"}
+{"name":"Curse_office_1","category_code":"games_video","latitude":37.787092,"longitude":-122.399972,"rating":"Big_Companies"}
+{"name":"Grockit_office_1","category_code":"social","latitude":37.775196,"longitude":-122.419204,"rating":"Big_Companies"}
+{"name":"FeVote_office_1","category_code":"web","latitude":37.779392,"longitude":-122.417928,"rating":"Startup"}
+{"name":"Forbes_office_1","category_code":"web","latitude":40.736416,"longitude":-73.993302,"rating":"Startup"}
+{"name":"Reddit_office_1","category_code":"web","latitude":37.780883,"longitude":-122.395257,"rating":"Startup"}
+{"name":"Dropbox_office_1","category_code":"software","latitude":37.7909427,"longitude":-122.4084994,"rating":"Big_Companies"}
+{"name":"Weebly_office_1","category_code":"web","latitude":37.795555,"longitude":-122.400729,"rating":"Big_Companies"}
+{"name":"Yola_office_1","category_code":"web","latitude":37.7911148,"longitude":-122.3954751,"rating":"Big_Companies"}
+{"name":"Kongregate_office_1","category_code":"games_video","latitude":37.786942,"longitude":-122.401245,"rating":"Big_Companies"}
+{"name":"DanceJam_office_1","category_code":"games_video","latitude":37.781557,"longitude":-122.407959,"rating":"Startup"}
+{"name":"Doostang_office_1","category_code":"web","latitude":37.427235,"longitude":-122.145783,"rating":"Startup"}
+{"name":"SnapTell_office_1","category_code":"software","latitude":37.433414,"longitude":-122.128772,"rating":"Startup"}
+{"name":"Wonga_office_1","category_code":"web","latitude":51.5192042,"longitude":-0.1626103,"rating":"Startup"}
+{"name":"MicroPlace_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Big_Companies"}
+{"name":"OMGPOP_office_1","category_code":"games_video","latitude":40.723384,"longitude":-74.001704,"rating":"Big_Companies"}
+{"name":"SayNow_office_1","category_code":"mobile","latitude":37.42746,"longitude":-122.143915,"rating":"Big_Companies"}
+{"name":"Crunchyroll_office_1","category_code":"games_video","latitude":37.781265,"longitude":-122.393229,"rating":"Big_Companies"}
+{"name":"Behance_office_1","category_code":"web","latitude":40.74406,"longitude":-74.004592,"rating":"Big_Companies"}
+{"name":"FAROO_office_1","category_code":"search","latitude":51.5195795,"longitude":-0.1065551,"rating":"Startup"}
+{"name":"LineUpNewYork_office_1","category_code":"web","latitude":40.753202,"longitude":-73.986771,"rating":"Startup"}
+{"name":"PeekYou_office_1","category_code":"search","latitude":40.757929,"longitude":-73.985506,"rating":"Big_Companies"}
+{"name":"YourStreet_office_1","category_code":"web","latitude":37.793742,"longitude":-122.421341,"rating":"Startup"}
+{"name":"Cuil_office_1","category_code":"search","latitude":37.451124,"longitude":-122.166264,"rating":"Big_Companies"}
+{"name":"Xobni_office_1","category_code":"software","latitude":37.789634,"longitude":-122.404052,"rating":"Startup"}
+{"name":"GroupSwim_office_1","category_code":"software","latitude":37.779558,"longitude":-122.393041,"rating":"Startup"}
+{"name":"Worklight_office_1","category_code":"mobile","latitude":40.756799,"longitude":-73.976348,"rating":"Big_Companies"}
+{"name":"Vestopia_office_1","category_code":"web","latitude":37.792262,"longitude":-122.403486,"rating":"Startup"}
+{"name":"3Jam_office_1","category_code":"mobile","latitude":37.765125,"longitude":-122.4044034,"rating":"Startup"}
+{"name":"Wikinvest_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"RayV_office_1","category_code":"games_video","latitude":40.781159,"longitude":-73.978332,"rating":"Startup"}
+{"name":"Uptake_office_1","category_code":"web","latitude":37.443058,"longitude":-122.161674,"rating":"Startup"}
+{"name":"The Climate Corporation_office_1","category_code":"cleantech","latitude":37.782809,"longitude":-122.394354,"rating":"Big_Companies"}
+{"name":"Automattic_office_1","category_code":"web","latitude":37.744274,"longitude":-122.421344,"rating":"Big_Companies"}
+{"name":"Tumblr_office_1","category_code":"web","latitude":40.743808,"longitude":-73.983626,"rating":"Startup"}
+{"name":"blinkbox_office_1","category_code":"games_video","latitude":51.520779,"longitude":-0.10759,"rating":"Startup"}
+{"name":"EchoSign_office_1","category_code":"web","latitude":37.445326,"longitude":-122.160671,"rating":"Big_Companies"}
+{"name":"Crusher_office_1","category_code":"web","latitude":37.772542,"longitude":-122.430127,"rating":"Startup"}
+{"name":"Gydget_office_1","category_code":"web","latitude":37.791733,"longitude":-122.398398,"rating":"Startup"}
+{"name":"Songbird_office_1","category_code":"mobile","latitude":37.787126,"longitude":-122.39783,"rating":"Startup"}
+{"name":"Jango_office_1","category_code":"games_video","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"Disqus_office_1","category_code":"web","latitude":37.786906,"longitude":-122.397672,"rating":"Big_Companies"}
+{"name":"Vringo_office_1","category_code":"software","latitude":40.7550005,"longitude":-73.9717364,"rating":"Startup"}
+{"name":"Zmags_office_3","category_code":"software","latitude":51.5111369,"longitude":-0.1247662,"rating":"Big_Companies"}
+{"name":"Dipity_office_1","category_code":"web","latitude":37.781262,"longitude":-122.394958,"rating":"Startup"}
+{"name":"GameLayers_office_1","category_code":"web","latitude":37.803847,"longitude":-122.402468,"rating":"Startup"}
+{"name":"UpNext_office_1","category_code":"mobile","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"betNOW_office_1","category_code":"web","latitude":51.511599,"longitude":-0.126389,"rating":"Startup"}
+{"name":"FFWD Wheels_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Uversity_office_2","category_code":"social","latitude":37.7749295,"longitude":-122.4194155,"rating":"Big_Companies"}
+{"name":"BeliefNet_office_1","category_code":"web","latitude":40.740231,"longitude":-73.985433,"rating":"Startup"}
+{"name":"HubPages_office_1","category_code":"web","latitude":37.7876952,"longitude":-122.3991505,"rating":"Big_Companies"}
+{"name":"AppJet_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"WeShow_office_1","category_code":"games_video","latitude":40.752516,"longitude":-73.973072,"rating":"Startup"}
+{"name":"GoLark_office_1","category_code":"web","latitude":40.7508,"longitude":-73.996122,"rating":"Startup"}
+{"name":"SnapVillage_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"Outspark_office_1","category_code":"games_video","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Zynga_office_1","category_code":"games_video","latitude":37.765158,"longitude":-122.404234,"rating":"Big_Companies"}
+{"name":"Roost_office_1","category_code":"software","latitude":37.7891288,"longitude":-122.4020276,"rating":"Big_Companies"}
+{"name":"WorldTV_office_2","category_code":"games_video","latitude":51.5001524,"longitude":-0.1262362,"rating":"Startup"}
+{"name":"Lookery_office_1","category_code":"web","latitude":37.788266,"longitude":-122.403865,"rating":"Startup"}
+{"name":"XLR8 Mobile_office_1","category_code":"web","latitude":37.788827,"longitude":-122.38944,"rating":"Big_Companies"}
+{"name":"Massify_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"idiomag_office_1","category_code":"games_video","latitude":51.500152,"longitude":-0.126236,"rating":"Startup"}
+{"name":"Metromole_office_1","category_code":"web","latitude":40.707253,"longitude":-74.007413,"rating":"Startup"}
+{"name":"Convos_office_1","category_code":"web","latitude":40.715145,"longitude":-74.005897,"rating":"Startup"}
+{"name":"Unknown Vector_office_1","category_code":"web","latitude":37.790032,"longitude":-122.404488,"rating":"Startup"}
+{"name":"Kazowie_office_1","category_code":"web","latitude":37.776467,"longitude":-122.395792,"rating":"Startup"}
+{"name":"HeadStrong Brain Gym_office_1","category_code":"software","latitude":40.75033,"longitude":-73.968173,"rating":"Startup"}
+{"name":"Paglo_office_1","category_code":"search","latitude":37.451255,"longitude":-122.117133,"rating":"Startup"}
+{"name":"What They Like_office_1","category_code":"web","latitude":37.7776778,"longitude":-122.3921102,"rating":"Startup"}
+{"name":"stickK_office_1","category_code":"web","latitude":40.744837,"longitude":-73.983843,"rating":"Startup"}
+{"name":"GroundReport_office_1","category_code":"web","latitude":40.725568,"longitude":-73.998208,"rating":"Startup"}
+{"name":"Fat Goose_office_1","category_code":"web","latitude":37.7876175,"longitude":-122.4033943,"rating":"Startup"}
+{"name":"Social Gaming Network_office_1","category_code":"games_video","latitude":37.446823,"longitude":-122.161523,"rating":"Big_Companies"}
+{"name":"doubleTwist_office_1","category_code":"software","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"GenieTown_office_1","category_code":"search","latitude":37.425773,"longitude":-122.144271,"rating":"Startup"}
+{"name":"8coupons_office_1","category_code":"web","latitude":40.7431477,"longitude":-73.9934288,"rating":"Startup"}
+{"name":"Camlink_office_1","category_code":"games_video","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"SendMe_office_1","category_code":"mobile","latitude":37.787126,"longitude":-122.39783,"rating":"Startup"}
+{"name":"Kluster_office_1","category_code":"web","latitude":40.723652,"longitude":-73.985281,"rating":"Startup"}
+{"name":"Blog Talk Radio_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"Tiny Pictures_office_1","category_code":"mobile","latitude":37.781002,"longitude":-122.406912,"rating":"Big_Companies"}
+{"name":"Outbrain_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"The Industry Standard_office_1","category_code":"web","latitude":37.783151,"longitude":-122.393323,"rating":"Startup"}
+{"name":"PhotoCrank_office_1","category_code":"web","latitude":37.445326,"longitude":-122.160671,"rating":"Startup"}
+{"name":"Gamers Media_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"Totspot_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"Heavy Electrons_office_1","category_code":"web","latitude":37.7809512,"longitude":-122.4025016,"rating":"Startup"}
+{"name":"Phreesia_office_1","category_code":"software","latitude":40.739794,"longitude":-73.985878,"rating":"Big_Companies"}
+{"name":"Fanpop_office_1","category_code":"web","latitude":37.758229,"longitude":-122.439512,"rating":"Startup"}
+{"name":"LiveHit_office_1","category_code":"search","latitude":37.445381,"longitude":-122.160753,"rating":"Startup"}
+{"name":"Tripology_office_1","category_code":"web","latitude":40.746883,"longitude":-73.983969,"rating":"Startup"}
+{"name":"Thrive_office_1","category_code":"web","latitude":40.718871,"longitude":-74.00118,"rating":"Big_Companies"}
+{"name":"Giant Realm_office_1","category_code":"web","latitude":40.7566658,"longitude":-73.9827553,"rating":"Startup"}
+{"name":"Clickpass_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Big_Companies"}
+{"name":"SearchMe_office_2","category_code":"search","latitude":37.793473,"longitude":-122.402667,"rating":"Big_Companies"}
+{"name":"Discovery Engine_office_1","category_code":"search","latitude":37.800356,"longitude":-122.402609,"rating":"Startup"}
+{"name":"Next New Networks_office_1","category_code":"web","latitude":40.743808,"longitude":-73.983626,"rating":"Big_Companies"}
+{"name":"Snaptalent_office_1","category_code":"web","latitude":37.786906,"longitude":-122.397672,"rating":"Startup"}
+{"name":"Elastra_office_1","category_code":"software","latitude":37.791137,"longitude":-122.391843,"rating":"Startup"}
+{"name":"kwiry_office_1","category_code":"mobile","latitude":37.7885714,"longitude":-122.4035985,"rating":"Startup"}
+{"name":"MyBlogLog_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Coordinatr_office_1","category_code":"software","latitude":37.804477,"longitude":-122.427021,"rating":"Startup"}
+{"name":"Octopart_office_1","category_code":"search","latitude":37.750608,"longitude":-122.423581,"rating":"Startup"}
+{"name":"Dotsub_office_1","category_code":"games_video","latitude":40.7680901,"longitude":-73.9566761,"rating":"Startup"}
+{"name":"ReadBurner_office_1","category_code":"web","latitude":37.80391,"longitude":-122.4042586,"rating":"Startup"}
+{"name":"Dadaphile_office_1","category_code":"web","latitude":40.737284,"longitude":-73.955432,"rating":"Startup"}
+{"name":"Viddyou_office_1","category_code":"games_video","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"MyMiniLife_office_1","category_code":"games_video","latitude":37.437328,"longitude":-122.159928,"rating":"Startup"}
+{"name":"DevHD_office_1","category_code":"web","latitude":37.46629,"longitude":-122.195057,"rating":"Startup"}
+{"name":"Netbooks_office_1","category_code":"web","latitude":37.79471,"longitude":-122.40195,"rating":"Startup"}
+{"name":"TJAT_office_1","category_code":"mobile","latitude":51.516594,"longitude":-0.108111,"rating":"Startup"}
+{"name":"Business Insider_office_1","category_code":"web","latitude":40.73906,"longitude":-73.990911,"rating":"Startup"}
+{"name":"Zemanta_office_2","category_code":"web","latitude":40.7387945,"longitude":-73.9939213,"rating":"Big_Companies"}
+{"name":"Wakozi_office_1","category_code":"web","latitude":40.755409,"longitude":-73.992706,"rating":"Startup"}
+{"name":"Noovo_office_1","category_code":"web","latitude":37.446382,"longitude":-122.155678,"rating":"Startup"}
+{"name":"stickychicken_office_1","category_code":"games_video","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Cellufun_office_1","category_code":"games_video","latitude":40.73993,"longitude":-73.9930489,"rating":"Big_Companies"}
+{"name":"Sososher_office_1","category_code":"web","latitude":51.500152,"longitude":-0.126236,"rating":"Startup"}
+{"name":"Placecast_office_1","category_code":"mobile","latitude":37.773688,"longitude":-122.423468,"rating":"Startup"}
+{"name":"Wists_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"Kublax_office_1","category_code":"web","latitude":51.5001524,"longitude":-0.1262362,"rating":"Startup"}
+{"name":"Weardrobe_office_1","category_code":"web","latitude":37.446662,"longitude":-122.164925,"rating":"Startup"}
+{"name":"Netcipia_office_1","category_code":"web","latitude":37.445326,"longitude":-122.160671,"rating":"Startup"}
+{"name":"Odeo_office_1","category_code":"web","latitude":40.753918,"longitude":-73.981237,"rating":"Big_Companies"}
+{"name":"DotHomes_office_1","category_code":"search","latitude":51.500152,"longitude":-0.126236,"rating":"Startup"}
+{"name":"Krugle_office_1","category_code":"search","latitude":37.45604,"longitude":-122.165399,"rating":"Startup"}
+{"name":"Open Source Living_office_1","category_code":"software","latitude":51.500152,"longitude":-0.126236,"rating":"Startup"}
+{"name":"Boxbe_office_1","category_code":"web","latitude":37.800209,"longitude":-122.442592,"rating":"Startup"}
+{"name":"Someecards_office_1","category_code":"web","latitude":40.737778,"longitude":-73.979508,"rating":"Startup"}
+{"name":"mySupermarket_office_2","category_code":"web","latitude":51.513671,"longitude":-0.159205,"rating":"Startup"}
+{"name":"Foxmarks_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Mojiva_office_1","category_code":"mobile","latitude":40.7185614,"longitude":-73.998662,"rating":"Big_Companies"}
+{"name":"NEHST Studios_office_1","category_code":"games_video","latitude":40.75451,"longitude":-73.992193,"rating":"Startup"}
+{"name":"Cutcaster_office_1","category_code":"web","latitude":37.79851,"longitude":-122.457454,"rating":"Startup"}
+{"name":"Heysan_office_1","category_code":"mobile","latitude":37.774997,"longitude":-122.410076,"rating":"Startup"}
+{"name":"alaTest_office_2","category_code":"web","latitude":40.727425,"longitude":-74.0057125,"rating":"Big_Companies"}
+{"name":"GitHub_office_1","category_code":"software","latitude":37.775196,"longitude":-122.419204,"rating":"Big_Companies"}
+{"name":"Compfight_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Sutros_office_1","category_code":"games_video","latitude":37.756922,"longitude":-122.42087,"rating":"Startup"}
+{"name":"InMobi_office_2","category_code":"mobile","latitude":37.4465496,"longitude":-122.1709208,"rating":"Big_Companies"}
+{"name":"Macroaxis_office_1","category_code":"software","latitude":37.7896292,"longitude":-122.3998782,"rating":"Startup"}
+{"name":"MUBI_office_1","category_code":"games_video","latitude":37.44236,"longitude":-122.161025,"rating":"Big_Companies"}
+{"name":"Omnivents_office_1","category_code":"games_video","latitude":37.44296,"longitude":-122.151198,"rating":"Startup"}
+{"name":"Aardvark_office_1","category_code":"web","latitude":37.748676,"longitude":-122.415813,"rating":"Big_Companies"}
+{"name":"Serious Business_office_1","category_code":"games_video","latitude":37.7893215,"longitude":-122.4013624,"rating":"Big_Companies"}
+{"name":"Zigron_office_1","category_code":"software","latitude":37.796164,"longitude":-122.420903,"rating":"Big_Companies"}
+{"name":"Lingoloopy_office_1","category_code":"web","latitude":51.500152,"longitude":-0.126236,"rating":"Startup"}
+{"name":"Center'd_office_1","category_code":"web","latitude":37.452992,"longitude":-122.185098,"rating":"Startup"}
+{"name":"Profy_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"mappery_office_1","category_code":"web","latitude":37.7717185,"longitude":-122.4438929,"rating":"Startup"}
+{"name":"Kidmondo_office_1","category_code":"web","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"HyperCalc_office_1","category_code":"software","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"Yoono_office_1","category_code":"web","latitude":37.787204,"longitude":-122.397884,"rating":"Startup"}
+{"name":"Tabbery_office_1","category_code":"software","latitude":40.732525,"longitude":-73.990076,"rating":"Startup"}
+{"name":"VentureLoop_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Subway Crush_office_1","category_code":"web","latitude":40.743563,"longitude":-73.993274,"rating":"Startup"}
+{"name":"RemindBlast_office_1","category_code":"web","latitude":37.773727,"longitude":-122.401537,"rating":"Startup"}
+{"name":"Supercool School_office_1","category_code":"web","latitude":37.754332,"longitude":-122.416804,"rating":"Startup"}
+{"name":"Friend2Friend_office_1","category_code":"software","latitude":37.445739,"longitude":-122.161284,"rating":"Big_Companies"}
+{"name":"GoMobo_office_1","category_code":"web","latitude":40.723839,"longitude":-74.0013669,"rating":"Startup"}
+{"name":"WebVet_office_1","category_code":"web","latitude":40.7717776,"longitude":-73.9513502,"rating":"Startup"}
+{"name":"Facilitas_office_1","category_code":"web","latitude":40.753931,"longitude":-73.991123,"rating":"Startup"}
+{"name":"Fuzz_office_1","category_code":"games_video","latitude":37.760524,"longitude":-122.387799,"rating":"Startup"}
+{"name":"Mozes_office_1","category_code":"mobile","latitude":37.445667,"longitude":-122.166911,"rating":"Big_Companies"}
+{"name":"findingDulcinea_office_1","category_code":"search","latitude":40.7455579,"longitude":-73.9823449,"rating":"Big_Companies"}
+{"name":"Fonemesh_office_1","category_code":"mobile","latitude":37.791128,"longitude":-122.398126,"rating":"Startup"}
+{"name":"Stitcher_office_1","category_code":"mobile","latitude":37.775196,"longitude":-122.419204,"rating":"Big_Companies"}
+{"name":"Zoosk_office_1","category_code":"social","latitude":37.7726402,"longitude":-122.4099154,"rating":"Startup"}
+{"name":"Worship Journal_office_1","category_code":"web","latitude":51.517076,"longitude":-0.150417,"rating":"Startup"}
+{"name":"Transpera_office_1","category_code":"mobile","latitude":37.785792,"longitude":-122.405081,"rating":"Big_Companies"}
+{"name":"Flixya_office_1","category_code":"web","latitude":37.7764671,"longitude":-122.3957917,"rating":"Startup"}
+{"name":"Infectious_office_1","category_code":"web","latitude":37.771927,"longitude":-122.410217,"rating":"Startup"}
+{"name":"Phreadz_office_1","category_code":"web","latitude":51.500152,"longitude":-0.126236,"rating":"Startup"}
+{"name":"SFentrepreneur_office_1","category_code":"web","latitude":37.78597,"longitude":-122.437262,"rating":"Startup"}
+{"name":"Pinch Media_office_1","category_code":"software","latitude":40.757929,"longitude":-73.985506,"rating":"Startup"}
+{"name":"Hive7_office_1","category_code":"games_video","latitude":37.44296,"longitude":-122.151198,"rating":"Startup"}
+{"name":"Offbeat Guides_office_1","category_code":"web","latitude":37.788408,"longitude":-122.405412,"rating":"Startup"}
+{"name":"Sazell_office_1","category_code":"web","latitude":51.500152,"longitude":-0.126236,"rating":"Startup"}
+{"name":"Backblaze_office_1","category_code":"software","latitude":37.44296,"longitude":-122.151198,"rating":"Startup"}
+{"name":"TuneCore_office_1","category_code":"games_video","latitude":40.704382,"longitude":-73.986572,"rating":"Startup"}
+{"name":"Cooliris_office_1","category_code":"web","latitude":37.421447,"longitude":-122.141604,"rating":"Startup"}
+{"name":"FoxyMelody_office_1","category_code":"web","latitude":40.74149,"longitude":-74.000709,"rating":"Startup"}
+{"name":"TickerHound_office_1","category_code":"web","latitude":40.728623,"longitude":-73.991924,"rating":"Startup"}
+{"name":"Strateer_office_1","category_code":"web","latitude":40.714521,"longitude":-74.007072,"rating":"Startup"}
+{"name":"StartForce_office_1","category_code":"web","latitude":37.796164,"longitude":-122.420903,"rating":"Big_Companies"}
+{"name":"Tapulous_office_1","category_code":"mobile","latitude":37.444332,"longitude":-122.161018,"rating":"Big_Companies"}
+{"name":"Ziki_office_1","category_code":"web","latitude":40.733276,"longitude":-73.9932793,"rating":"Startup"}
+{"name":"Lingro_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Grid Net_office_1","category_code":"software","latitude":37.781265,"longitude":-122.393229,"rating":"Startup"}
+{"name":"HealthiNation_office_1","category_code":"web","latitude":40.739341,"longitude":-73.988357,"rating":"Startup"}
+{"name":"Ziippi_office_1","category_code":"web","latitude":37.4440981,"longitude":-122.1612868,"rating":"Startup"}
+{"name":"iPling_office_1","category_code":"mobile","latitude":37.791391,"longitude":-122.402859,"rating":"Startup"}
+{"name":"Vivaty_office_1","category_code":"web","latitude":37.48032,"longitude":-122.178371,"rating":"Big_Companies"}
+{"name":"NeighborCity_office_1","category_code":"web","latitude":37.775392,"longitude":-122.412214,"rating":"Big_Companies"}
+{"name":"Lolz_office_1","category_code":"web","latitude":40.743563,"longitude":-73.993274,"rating":"Startup"}
+{"name":"Sonibyte_office_1","category_code":"web","latitude":40.769466,"longitude":-73.950845,"rating":"Startup"}
+{"name":"NewsOrViews_office_1","category_code":"web","latitude":37.780134,"longitude":-122.396744,"rating":"Startup"}
+{"name":"LinQpay_office_3","category_code":"mobile","latitude":51.514193,"longitude":-0.146431,"rating":"Big_Companies"}
+{"name":"NOLOH_office_1","category_code":"software","latitude":40.762975,"longitude":-73.9674,"rating":"Startup"}
+{"name":"Keibi Technologies_office_1","category_code":"software","latitude":37.787646,"longitude":-122.402759,"rating":"Big_Companies"}
+{"name":"BountyJobs_office_1","category_code":"web","latitude":40.754211,"longitude":-73.97917,"rating":"Big_Companies"}
+{"name":"VBS TV_office_1","category_code":"games_video","latitude":40.720764,"longitude":-73.957968,"rating":"Big_Companies"}
+{"name":"Aloqa_office_2","category_code":"mobile","latitude":37.43938,"longitude":-122.158804,"rating":"Big_Companies"}
+{"name":"Overstream_office_1","category_code":"games_video","latitude":37.791391,"longitude":-122.402859,"rating":"Startup"}
+{"name":"PodOmatic_office_1","category_code":"web","latitude":37.776271,"longitude":-122.396506,"rating":"Startup"}
+{"name":"My Damn Channel_office_1","category_code":"games_video","latitude":40.754762,"longitude":-73.988543,"rating":"Startup"}
+{"name":"DailyCaption_office_1","category_code":"web","latitude":37.4441726,"longitude":-122.1632941,"rating":"Startup"}
+{"name":"Nalpeiron_office_1","category_code":"software","latitude":37.4498742,"longitude":-122.1209066,"rating":"Startup"}
+{"name":"CleanLoop_office_1","category_code":"cleantech","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Posterous_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Expensure_office_1","category_code":"mobile","latitude":51.500152,"longitude":-0.126236,"rating":"Startup"}
+{"name":"Pluribo_office_1","category_code":"software","latitude":40.751293,"longitude":-73.978887,"rating":"Startup"}
+{"name":"wikiHow_office_1","category_code":"web","latitude":37.453657,"longitude":-122.182037,"rating":"Startup"}
+{"name":"Open Places_office_1","category_code":"web","latitude":37.758352,"longitude":-122.398379,"rating":"Startup"}
+{"name":"Genbook_office_1","category_code":"web","latitude":37.789902,"longitude":-122.4007791,"rating":"Big_Companies"}
+{"name":"TweetDeck_office_1","category_code":"software","latitude":51.5001524,"longitude":-0.1262362,"rating":"Startup"}
+{"name":"Spill_office_1","category_code":"games_video","latitude":40.72616,"longitude":-74.006023,"rating":"Startup"}
+{"name":"GlocalReach_office_1","category_code":"mobile","latitude":51.5208247,"longitude":-0.1219851,"rating":"Startup"}
+{"name":"Flowgram_office_1","category_code":"web","latitude":37.7710177,"longitude":-122.4025976,"rating":"Startup"}
+{"name":"Airtag_office_1","category_code":"mobile","latitude":40.704213,"longitude":-74.0082089,"rating":"Big_Companies"}
+{"name":"GEN247_office_1","category_code":"games_video","latitude":40.727434,"longitude":-73.9447994,"rating":"Big_Companies"}
+{"name":"Bitly_office_1","category_code":"web","latitude":40.74034,"longitude":-74.00721,"rating":"Startup"}
+{"name":"Involver_office_1","category_code":"software","latitude":37.788653,"longitude":-122.401333,"rating":"Startup"}
+{"name":"EcoFlip_office_1","category_code":"web","latitude":37.796164,"longitude":-122.420903,"rating":"Startup"}
+{"name":"GigMaven_office_1","category_code":"games_video","latitude":40.724289,"longitude":-73.980587,"rating":"Startup"}
+{"name":"Scavenja_office_1","category_code":"games_video","latitude":37.780134,"longitude":-122.396744,"rating":"Startup"}
+{"name":"muzu tv_office_2","category_code":"web","latitude":51.513678,"longitude":-0.13063,"rating":"Big_Companies"}
+{"name":"muzu tv_office_3","category_code":"web","latitude":40.757716,"longitude":-73.972321,"rating":"Big_Companies"}
+{"name":"ArtistForce_office_2","category_code":"software","latitude":40.70299,"longitude":-73.983471,"rating":"Big_Companies"}
+{"name":"Lexy_office_1","category_code":"games_video","latitude":37.786906,"longitude":-122.397672,"rating":"Startup"}
+{"name":"OpenDrive_office_1","category_code":"software","latitude":37.794043,"longitude":-122.39736,"rating":"Big_Companies"}
+{"name":"Carbonetworks_office_1","category_code":"cleantech","latitude":37.805289,"longitude":-122.404448,"rating":"Big_Companies"}
+{"name":"Overtime Media_office_1","category_code":"web","latitude":40.779947,"longitude":-73.953502,"rating":"Startup"}
+{"name":"StyleCard_office_1","category_code":"web","latitude":40.738137,"longitude":-74.0058,"rating":"Startup"}
+{"name":"Rofo_office_1","category_code":"search","latitude":37.781689,"longitude":-122.391061,"rating":"Startup"}
+{"name":"CarbonFlow_office_1","category_code":"software","latitude":37.779097,"longitude":-122.39365,"rating":"Startup"}
+{"name":"CarbonFlow_office_3","category_code":"software","latitude":51.500152,"longitude":-0.126236,"rating":"Startup"}
+{"name":"Publictivity_office_1","category_code":"software","latitude":37.411846,"longitude":-122.1295,"rating":"Startup"}
+{"name":"Huddler_office_1","category_code":"web","latitude":37.7893215,"longitude":-122.4013624,"rating":"Big_Companies"}
+{"name":"Sweemo_office_1","category_code":"web","latitude":51.5277086,"longitude":-0.1227806,"rating":"Startup"}
+{"name":"Zorap_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Hunch_office_1","category_code":"web","latitude":40.741179,"longitude":-73.993182,"rating":"Big_Companies"}
+{"name":"ngmoco_office_1","category_code":"games_video","latitude":37.7705096,"longitude":-122.4015807,"rating":"Big_Companies"}
+{"name":"XB Labs_office_1","category_code":"software","latitude":40.755329,"longitude":-73.991605,"rating":"Startup"}
+{"name":"RankBoom_office_1","category_code":"web","latitude":37.4459832,"longitude":-122.1490582,"rating":"Startup"}
+{"name":"Zentu_office_1","category_code":"software","latitude":37.448491,"longitude":-122.180281,"rating":"Startup"}
+{"name":"Conductor_office_1","category_code":"search","latitude":40.746332,"longitude":-73.982596,"rating":"Big_Companies"}
+{"name":"YellowSpaces_office_1","category_code":"web","latitude":40.739867,"longitude":-73.990024,"rating":"Startup"}
+{"name":"Ecolect_office_1","category_code":"cleantech","latitude":37.776769,"longitude":-122.410111,"rating":"Startup"}
+{"name":"Integrate_office_1","category_code":"software","latitude":40.7481039,"longitude":-74.0353787,"rating":"Big_Companies"}
+{"name":"Snipd_office_1","category_code":"games_video","latitude":37.437328,"longitude":-122.159928,"rating":"Startup"}
+{"name":"Frogmetrics_office_1","category_code":"web","latitude":40.7286261,"longitude":-73.9555369,"rating":"Startup"}
+{"name":"LockerDome_office_2","category_code":"social","latitude":40.7272544,"longitude":-74.0057152,"rating":"Big_Companies"}
+{"name":"vufind_office_1","category_code":"mobile","latitude":37.424614,"longitude":-122.145153,"rating":"Startup"}
+{"name":"PX Interactive_office_1","category_code":"software","latitude":37.781754,"longitude":-122.407709,"rating":"Startup"}
+{"name":"Fluther_office_1","category_code":"web","latitude":37.758062,"longitude":-122.418642,"rating":"Startup"}
+{"name":"Lyft_office_1","category_code":"software","latitude":37.7899027,"longitude":-122.4007846,"rating":"Big_Companies"}
+{"name":"Carticipate_office_1","category_code":"mobile","latitude":37.782101,"longitude":-122.389519,"rating":"Startup"}
+{"name":"Shattered Reality Interactive_office_1","category_code":"games_video","latitude":37.783046,"longitude":-122.394067,"rating":"Startup"}
+{"name":"Mobclix_office_1","category_code":"mobile","latitude":37.448598,"longitude":-122.158497,"rating":"Big_Companies"}
+{"name":"FohBoh_office_1","category_code":"social","latitude":37.7924253,"longitude":-122.4010019,"rating":"Startup"}
+{"name":"ShopCastTV_office_1","category_code":"mobile","latitude":37.7881481,"longitude":-122.3943387,"rating":"Startup"}
+{"name":"Birdpost_office_1","category_code":"web","latitude":37.452011,"longitude":-122.182824,"rating":"Startup"}
+{"name":"Dada Entertainment_office_1","category_code":"mobile","latitude":40.7543,"longitude":-73.981847,"rating":"Startup"}
+{"name":"Jumptap_office_2","category_code":"mobile","latitude":40.751478,"longitude":-73.980305,"rating":"Startup"}
+{"name":"TextMarks_office_1","category_code":"mobile","latitude":37.79289,"longitude":-122.428193,"rating":"Startup"}
+{"name":"plaYce_office_1","category_code":"games_video","latitude":37.80204,"longitude":-122.438231,"rating":"Startup"}
+{"name":"PeopleBrowsr_office_1","category_code":"web","latitude":37.459112,"longitude":-122.142326,"rating":"Big_Companies"}
+{"name":"Bojam_office_1","category_code":"games_video","latitude":37.448598,"longitude":-122.158497,"rating":"Startup"}
+{"name":"Twonq_office_1","category_code":"web","latitude":37.794124,"longitude":-122.403223,"rating":"Startup"}
+{"name":"Postbox_office_1","category_code":"software","latitude":37.758737,"longitude":-122.388336,"rating":"Startup"}
+{"name":"Producteev_office_1","category_code":"software","latitude":40.775309,"longitude":-73.983656,"rating":"Startup"}
+{"name":"Papervitamins_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"GoPlanit_office_1","category_code":"web","latitude":37.791576,"longitude":-122.399363,"rating":"Startup"}
+{"name":"GoodGuide_office_1","category_code":"web","latitude":37.7983181,"longitude":-122.4000032,"rating":"Startup"}
+{"name":"Angstro_office_1","category_code":"software","latitude":37.444393,"longitude":-122.163139,"rating":"Startup"}
+{"name":"Briteclick_office_1","category_code":"search","latitude":40.708093,"longitude":-74.01312,"rating":"Startup"}
+{"name":"Lolapps_office_1","category_code":"web","latitude":37.7870923,"longitude":-122.3999719,"rating":"Big_Companies"}
+{"name":"Kidos_office_1","category_code":"games_video","latitude":40.768058,"longitude":-73.956599,"rating":"Startup"}
+{"name":"Kidos_office_2","category_code":"games_video","latitude":40.714056,"longitude":-73.957854,"rating":"Startup"}
+{"name":"photothread_office_1","category_code":"web","latitude":40.721583,"longitude":-74.004441,"rating":"Startup"}
+{"name":"Pixelpipe_office_1","category_code":"mobile","latitude":37.764395,"longitude":-122.401024,"rating":"Startup"}
+{"name":"Samepoint_office_1","category_code":"web","latitude":40.741441,"longitude":-73.999675,"rating":"Startup"}
+{"name":"Scripped_office_1","category_code":"software","latitude":37.7749295,"longitude":-122.4194155,"rating":"Startup"}
+{"name":"Petciety_office_1","category_code":"web","latitude":40.753207,"longitude":-73.995886,"rating":"Startup"}
+{"name":"DESIGN about TOWN_office_1","category_code":"web","latitude":37.797909,"longitude":-122.403312,"rating":"Startup"}
+{"name":"SuiteMatch_office_1","category_code":"web","latitude":40.747005,"longitude":-74.039011,"rating":"Startup"}
+{"name":"Getfugu_office_1","category_code":"software","latitude":37.771706,"longitude":-122.402683,"rating":"Startup"}
+{"name":"AppVee_office_1","category_code":"mobile","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Meet Now Live_office_1","category_code":"mobile","latitude":40.777072,"longitude":-73.987036,"rating":"Startup"}
+{"name":"Buzzd_office_1","category_code":"mobile","latitude":40.733928,"longitude":-73.991334,"rating":"Startup"}
+{"name":"PCIQ_office_1","category_code":"web","latitude":51.515374,"longitude":-0.130109,"rating":"Startup"}
+{"name":"PROJECT DIRT_office_1","category_code":"web","latitude":37.443,"longitude":-122.159291,"rating":"Startup"}
+{"name":"The Company Database_office_1","category_code":"web","latitude":40.764481,"longitude":-73.970266,"rating":"Startup"}
+{"name":"Brightstorm_office_1","category_code":"games_video","latitude":37.804619,"longitude":-122.371203,"rating":"Startup"}
+{"name":"ecomii_office_1","category_code":"cleantech","latitude":40.743157,"longitude":-74.006513,"rating":"Startup"}
+{"name":"SearchSalad_office_1","category_code":"search","latitude":51.509905,"longitude":-0.145438,"rating":"Big_Companies"}
+{"name":"SocialMoms_office_1","category_code":"web","latitude":37.443,"longitude":-122.159291,"rating":"Startup"}
+{"name":"BoxCycle_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"PicApp_office_1","category_code":"web","latitude":37.79402,"longitude":-122.4031242,"rating":"Startup"}
+{"name":"Bloglovin_office_2","category_code":"web","latitude":40.740308,"longitude":-74.007199,"rating":"Startup"}
+{"name":"GeoPostcodes_office_1","category_code":"web","latitude":51.517899,"longitude":-0.146484,"rating":"Startup"}
+{"name":"Whole Travel_office_1","category_code":"search","latitude":37.445739,"longitude":-122.161284,"rating":"Startup"}
+{"name":"One Season_office_1","category_code":"games_video","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Healism_office_2","category_code":"web","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"Reframe It_office_1","category_code":"web","latitude":37.782163,"longitude":-122.400591,"rating":"Startup"}
+{"name":"Nexenta Systems_office_1","category_code":"software","latitude":37.444098,"longitude":-122.161287,"rating":"Big_Companies"}
+{"name":"Britely_office_1","category_code":"web","latitude":37.458766,"longitude":-122.172519,"rating":"Big_Companies"}
+{"name":"Buzzr_office_1","category_code":"software","latitude":40.740941,"longitude":-73.992609,"rating":"Startup"}
+{"name":"GroupCard_office_1","category_code":"web","latitude":37.451401,"longitude":-122.182558,"rating":"Startup"}
+{"name":"GotGame_office_1","category_code":"games_video","latitude":37.77772,"longitude":-122.395785,"rating":"Big_Companies"}
+{"name":"ReverbNation_office_2","category_code":"software","latitude":40.718888,"longitude":-74.001169,"rating":"Big_Companies"}
+{"name":"For Your Imagination_office_1","category_code":"games_video","latitude":40.744594,"longitude":-73.989698,"rating":"Startup"}
+{"name":"RateZip_office_1","category_code":"web","latitude":40.731085,"longitude":-73.992633,"rating":"Startup"}
+{"name":"CarZen_office_1","category_code":"web","latitude":40.76945,"longitude":-73.951865,"rating":"Startup"}
+{"name":"TasteSpace_office_1","category_code":"web","latitude":40.747819,"longitude":-73.982544,"rating":"Startup"}
+{"name":"DocVerse_office_1","category_code":"web","latitude":37.788115,"longitude":-122.397141,"rating":"Startup"}
+{"name":"Cookstr_office_1","category_code":"web","latitude":40.707268,"longitude":-74.001724,"rating":"Startup"}
+{"name":"RankAbove_office_2","category_code":"software","latitude":40.748047,"longitude":-73.992402,"rating":"Big_Companies"}
+{"name":"Yipit_office_1","category_code":"web","latitude":40.744618,"longitude":-73.987764,"rating":"Big_Companies"}
+{"name":"Tivix_office_1","category_code":"software","latitude":37.792303,"longitude":-122.423132,"rating":"Big_Companies"}
+{"name":"Virgance_office_1","category_code":"web","latitude":37.781262,"longitude":-122.394958,"rating":"Big_Companies"}
+{"name":"WordNetworks_office_1","category_code":"web","latitude":37.782886,"longitude":-122.394635,"rating":"Startup"}
+{"name":"148Apps_office_1","category_code":"software","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"TubeSpree_office_1","category_code":"games_video","latitude":37.781386,"longitude":-122.421406,"rating":"Big_Companies"}
+{"name":"Aghreni Technologies_office_2","category_code":"software","latitude":40.744549,"longitude":-73.988071,"rating":"Big_Companies"}
+{"name":"WeTxt_office_1","category_code":"mobile","latitude":40.740837,"longitude":-74.003466,"rating":"Startup"}
+{"name":"NOM_office_1","category_code":"web","latitude":40.740672,"longitude":-73.992632,"rating":"Startup"}
+{"name":"Mobyko_office_1","category_code":"mobile","latitude":51.5124201,"longitude":-0.137494,"rating":"Big_Companies"}
+{"name":"Behind the Burner_office_1","category_code":"web","latitude":40.753918,"longitude":-73.981237,"rating":"Startup"}
+{"name":"BarterQuest_office_1","category_code":"web","latitude":40.748634,"longitude":-73.994203,"rating":"Startup"}
+{"name":"Pilotlite_office_1","category_code":"games_video","latitude":40.7166822,"longitude":-74.005398,"rating":"Startup"}
+{"name":"Synthesio_office_2","category_code":"software","latitude":40.7431836,"longitude":-73.9935011,"rating":"Big_Companies"}
+{"name":"Carbonmade_office_1","category_code":"web","latitude":40.74727,"longitude":-73.9800645,"rating":"Startup"}
+{"name":"Open Mountain_office_1","category_code":"software","latitude":37.795276,"longitude":-122.429788,"rating":"Startup"}
+{"name":"Odiogo_office_1","category_code":"mobile","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"BeatPick_office_1","category_code":"games_video","latitude":51.5001524,"longitude":-0.1262362,"rating":"Startup"}
+{"name":"Matter Network_office_1","category_code":"cleantech","latitude":37.7618242,"longitude":-122.3985871,"rating":"Startup"}
+{"name":"People Capital_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"Connectize_office_1","category_code":"software","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"CyberSynchs_office_1","category_code":"mobile","latitude":40.745534,"longitude":-73.990033,"rating":"Big_Companies"}
+{"name":"Statix TV_office_1","category_code":"web","latitude":37.443,"longitude":-122.159291,"rating":"Startup"}
+{"name":"gliider_office_1","category_code":"web","latitude":40.702692,"longitude":-73.989613,"rating":"Startup"}
+{"name":"Grapevine Talk_office_2","category_code":"software","latitude":51.5001524,"longitude":-0.1262362,"rating":"Startup"}
+{"name":"Circle of Moms_office_1","category_code":"web","latitude":37.7890183,"longitude":-122.3915063,"rating":"Startup"}
+{"name":"Skipso_office_1","category_code":"cleantech","latitude":51.5206245,"longitude":-0.1168286,"rating":"Startup"}
+{"name":"Unison Technologies_office_1","category_code":"software","latitude":40.7645772,"longitude":-73.9799007,"rating":"Big_Companies"}
+{"name":"Modelinia_office_1","category_code":"web","latitude":40.739867,"longitude":-73.990024,"rating":"Startup"}
+{"name":"Livekick_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"Snappr_office_1","category_code":"mobile","latitude":37.762718,"longitude":-122.414259,"rating":"Startup"}
+{"name":"Give Real_office_1","category_code":"web","latitude":40.7250495,"longitude":-73.9970912,"rating":"Startup"}
+{"name":"StartupAgents_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Enversa Companies_office_2","category_code":"web","latitude":40.750179,"longitude":-73.976018,"rating":"Big_Companies"}
+{"name":"Clikthrough_office_1","category_code":"software","latitude":37.7965781,"longitude":-122.4022856,"rating":"Startup"}
+{"name":"Qitera_office_1","category_code":"search","latitude":37.7581148,"longitude":-122.4184108,"rating":"Startup"}
+{"name":"Gawkk_office_1","category_code":"games_video","latitude":40.778635,"longitude":-73.984438,"rating":"Startup"}
+{"name":"Webzzle_office_1","category_code":"web","latitude":37.4417,"longitude":-122.1417,"rating":"Startup"}
+{"name":"Indee_office_1","category_code":"games_video","latitude":37.8053241,"longitude":-122.4052761,"rating":"Startup"}
+{"name":"Proclivity Systems_office_1","category_code":"software","latitude":40.738954,"longitude":-73.992,"rating":"Startup"}
+{"name":"SupplierSelect_office_1","category_code":"web","latitude":51.5137321,"longitude":-0.1427993,"rating":"Startup"}
+{"name":"Why Hasn't He?_office_1","category_code":"games_video","latitude":40.7703479,"longitude":-73.9914834,"rating":"Startup"}
+{"name":"BeliefNetworks_office_2","category_code":"software","latitude":40.746944,"longitude":-73.983926,"rating":"Startup"}
+{"name":"Robotgalaxy_office_1","category_code":"games_video","latitude":40.737216,"longitude":-73.990947,"rating":"Startup"}
+{"name":"Fotohoo_office_1","category_code":"games_video","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"Kaplan Index_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Dragonfly_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"Fuego Nation_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"5th Finger_office_1","category_code":"mobile","latitude":37.7900992,"longitude":-122.4021988,"rating":"Big_Companies"}
+{"name":"IAmInTown_office_1","category_code":"web","latitude":40.7370784,"longitude":-74.0348315,"rating":"Startup"}
+{"name":"CareerPlayer_office_1","category_code":"games_video","latitude":51.5001524,"longitude":-0.1262362,"rating":"Startup"}
+{"name":"Trutoon_office_1","category_code":"web","latitude":37.4459832,"longitude":-122.1490582,"rating":"Startup"}
+{"name":"Heyzap_office_1","category_code":"games_video","latitude":37.7905538,"longitude":-122.4041485,"rating":"Startup"}
+{"name":"Tripbase_office_1","category_code":"web","latitude":37.437328,"longitude":-122.159928,"rating":"Startup"}
+{"name":"PEX Card_office_1","category_code":"software","latitude":40.752539,"longitude":-73.987871,"rating":"Big_Companies"}
+{"name":"Ticketpredator_office_1","category_code":"web","latitude":40.7438356,"longitude":-73.9890149,"rating":"Startup"}
+{"name":"WeMix_office_1","category_code":"web","latitude":40.7554379,"longitude":-73.9815358,"rating":"Startup"}
+{"name":"Skout_office_1","category_code":"social","latitude":37.7800539,"longitude":-122.3912492,"rating":"Big_Companies"}
+{"name":"Emoshape_office_1","category_code":"software","latitude":51.5123833,"longitude":-0.1158832,"rating":"Startup"}
+{"name":"Comixology_office_1","category_code":"games_video","latitude":40.740512,"longitude":-73.987794,"rating":"Startup"}
+{"name":"CodeGlide_office_1","category_code":"software","latitude":37.7934643,"longitude":-122.3979712,"rating":"Startup"}
+{"name":"KODA_office_1","category_code":"web","latitude":37.788796,"longitude":-122.40971,"rating":"Big_Companies"}
+{"name":"Jobulous_office_1","category_code":"web","latitude":40.7464969,"longitude":-74.0094471,"rating":"Startup"}
+{"name":"Gecko Audio_office_1","category_code":"software","latitude":37.437328,"longitude":-122.159928,"rating":"Startup"}
+{"name":"Music For Busy People_office_1","category_code":"games_video","latitude":40.727763,"longitude":-73.976169,"rating":"Startup"}
+{"name":"Sensor Analytics_office_1","category_code":"software","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"VouChaCha_office_1","category_code":"mobile","latitude":51.5001524,"longitude":-0.1262362,"rating":"Big_Companies"}
+{"name":"MediaMelon_office_1","category_code":"software","latitude":37.792968,"longitude":-122.40414,"rating":"Startup"}
+{"name":"CollegeClickTV_office_1","category_code":"games_video","latitude":40.7495594,"longitude":-73.9916617,"rating":"Startup"}
+{"name":"Transifex_office_1","category_code":"software","latitude":37.4513629,"longitude":-122.1842112,"rating":"Big_Companies"}
+{"name":"iCelebrate_office_1","category_code":"web","latitude":37.4441726,"longitude":-122.1632941,"rating":"Startup"}
+{"name":"Jobnob_office_1","category_code":"search","latitude":37.7440202,"longitude":-122.4219405,"rating":"Startup"}
+{"name":"Superfish_office_1","category_code":"search","latitude":37.414271,"longitude":-122.134666,"rating":"Big_Companies"}
+{"name":"3Degrees_office_1","category_code":"cleantech","latitude":37.7968492,"longitude":-122.457623,"rating":"Big_Companies"}
+{"name":"Purebred Network_office_1","category_code":"web","latitude":37.443,"longitude":-122.159291,"rating":"Startup"}
+{"name":"SwitchGames_office_1","category_code":"games_video","latitude":40.7297485,"longitude":-73.9867361,"rating":"Startup"}
+{"name":"FreshNetworks_office_1","category_code":"software","latitude":51.5178123,"longitude":-0.11796,"rating":"Big_Companies"}
+{"name":"Fliggo_office_1","category_code":"games_video","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Mendeley_office_1","category_code":"social","latitude":51.5224267,"longitude":-0.1046546,"rating":"Big_Companies"}
+{"name":"Meedan_office_1","category_code":"search","latitude":37.786317,"longitude":-122.422503,"rating":"Big_Companies"}
+{"name":"Diomede Storage_office_1","category_code":"cleantech","latitude":37.7753,"longitude":-122.4186,"rating":"Startup"}
+{"name":"GreenITers_office_1","category_code":"cleantech","latitude":37.443,"longitude":-122.159291,"rating":"Startup"}
+{"name":"TranZfinity_office_3","category_code":"mobile","latitude":51.5069206,"longitude":-0.1249337,"rating":"Startup"}
+{"name":"Crispy Gamer_office_1","category_code":"games_video","latitude":40.750597,"longitude":-73.985273,"rating":"Startup"}
+{"name":"Vanno_office_1","category_code":"web","latitude":37.796216,"longitude":-122.403755,"rating":"Startup"}
+{"name":"Wee Web_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"TOMOS Software_office_1","category_code":"software","latitude":40.7504268,"longitude":-73.9768083,"rating":"Startup"}
+{"name":"rent2friend_office_1","category_code":"web","latitude":51.5001524,"longitude":-0.1262362,"rating":"Startup"}
+{"name":"iPharro Media_office_2","category_code":"software","latitude":40.7438356,"longitude":-73.9890149,"rating":"Big_Companies"}
+{"name":"North by South_office_1","category_code":"software","latitude":37.776295,"longitude":-122.409893,"rating":"Big_Companies"}
+{"name":"SpaBooker_office_1","category_code":"software","latitude":40.738567,"longitude":-73.987199,"rating":"Big_Companies"}
+{"name":"ITDatabase_office_1","category_code":"software","latitude":37.778545,"longitude":-122.437716,"rating":"Big_Companies"}
+{"name":"Subzero Software_office_1","category_code":"mobile","latitude":51.5347897,"longitude":-0.1080873,"rating":"Startup"}
+{"name":"Zoombu_office_1","category_code":"search","latitude":51.5001524,"longitude":-0.1262362,"rating":"Startup"}
+{"name":"Transfer To_office_2","category_code":"mobile","latitude":40.705255,"longitude":-74.010983,"rating":"Startup"}
+{"name":"GameChanger Media_office_1","category_code":"software","latitude":40.7078343,"longitude":-74.0136605,"rating":"Big_Companies"}
+{"name":"Fan Centric_office_2","category_code":"web","latitude":37.7805399,"longitude":-122.3968175,"rating":"Startup"}
+{"name":"Blog Traffic Exchange_office_1","category_code":"web","latitude":37.4484914,"longitude":-122.1802812,"rating":"Startup"}
+{"name":"betaworks_office_1","category_code":"social","latitude":40.74034,"longitude":-74.00721,"rating":"Startup"}
+{"name":"CleanTechies_office_1","category_code":"cleantech","latitude":37.7717185,"longitude":-122.4438929,"rating":"Startup"}
+{"name":"Discount Sports Tickets_office_1","category_code":"web","latitude":40.7028474,"longitude":-73.9906813,"rating":"Startup"}
+{"name":"watercompare_office_1","category_code":"web","latitude":51.5001524,"longitude":-0.1262362,"rating":"Startup"}
+{"name":"Moogi_office_1","category_code":"games_video","latitude":40.7217861,"longitude":-74.0094471,"rating":"Startup"}
+{"name":"Wowd_office_1","category_code":"search","latitude":37.448598,"longitude":-122.158497,"rating":"Big_Companies"}
+{"name":"Twazzup_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"Thrillcall_office_1","category_code":"web","latitude":37.792324,"longitude":-122.401497,"rating":"Startup"}
+{"name":"MyCollegeCalendar_office_1","category_code":"web","latitude":37.7726402,"longitude":-122.4099154,"rating":"Big_Companies"}
+{"name":"Tweenjo_office_1","category_code":"web","latitude":51.5137747,"longitude":-0.1459893,"rating":"Startup"}
+{"name":"myGreek_office_1","category_code":"web","latitude":37.772287,"longitude":-122.42044,"rating":"Startup"}
+{"name":"TrialX_office_1","category_code":"web","latitude":40.7277434,"longitude":-73.9893359,"rating":"Startup"}
+{"name":"Catchafire_office_1","category_code":"web","latitude":40.746417,"longitude":-73.983171,"rating":"Startup"}
+{"name":"Factery_office_1","category_code":"web","latitude":37.4484914,"longitude":-122.1802812,"rating":"Startup"}
+{"name":"Ayima_office_1","category_code":"search","latitude":51.5211504,"longitude":-0.1036021,"rating":"Big_Companies"}
+{"name":"Bamboudesign_office_1","category_code":"mobile","latitude":37.775087,"longitude":-122.415199,"rating":"Startup"}
+{"name":"FledgeWing_office_1","category_code":"web","latitude":40.7322535,"longitude":-73.9874105,"rating":"Startup"}
+{"name":"Milo_office_1","category_code":"web","latitude":37.444531,"longitude":-122.163352,"rating":"Big_Companies"}
+{"name":"Healogica_office_1","category_code":"web","latitude":40.779959,"longitude":-73.976151,"rating":"Startup"}
+{"name":"Kidlandia_office_1","category_code":"web","latitude":37.8017938,"longitude":-122.4043215,"rating":"Startup"}
+{"name":"Nextstop_office_1","category_code":"web","latitude":37.7710177,"longitude":-122.4025976,"rating":"Startup"}
+{"name":"ArcTouch_office_1","category_code":"mobile","latitude":37.779868,"longitude":-122.392343,"rating":"Big_Companies"}
+{"name":"Firm58_office_2","category_code":"software","latitude":40.766734,"longitude":-73.988265,"rating":"Startup"}
+{"name":"AppNinjas_office_1","category_code":"mobile","latitude":37.7983181,"longitude":-122.4000032,"rating":"Startup"}
+{"name":"FanFeedr_office_1","category_code":"web","latitude":40.7395876,"longitude":-73.9928423,"rating":"Startup"}
+{"name":"Marketcetera_office_1","category_code":"software","latitude":37.788864,"longitude":-122.4008487,"rating":"Startup"}
+{"name":"Garlik_office_2","category_code":"software","latitude":40.7615818,"longitude":-73.970624,"rating":"Big_Companies"}
+{"name":"Saavn_office_1","category_code":"games_video","latitude":40.743877,"longitude":-73.98618,"rating":"Big_Companies"}
+{"name":"PlantSense_office_1","category_code":"web","latitude":37.7697623,"longitude":-122.4183929,"rating":"Startup"}
+{"name":"Simply Good Media_office_1","category_code":"web","latitude":40.726517,"longitude":-74.032177,"rating":"Startup"}
+{"name":"YEAONAY_office_1","category_code":"web","latitude":40.751234,"longitude":-73.9952442,"rating":"Startup"}
+{"name":"Yoostar_office_1","category_code":"games_video","latitude":40.756054,"longitude":-73.986951,"rating":"Big_Companies"}
+{"name":"ShopSavvy_office_1","category_code":"mobile","latitude":37.7770719,"longitude":-122.3966273,"rating":"Startup"}
+{"name":"ArtNeighbor_office_1","category_code":"web","latitude":40.7489381,"longitude":-73.9918181,"rating":"Startup"}
+{"name":"Sunrun_office_1","category_code":"cleantech","latitude":37.7871306,"longitude":-122.4041075,"rating":"Big_Companies"}
+{"name":"GameGround_office_1","category_code":"games_video","latitude":40.756054,"longitude":-73.986951,"rating":"Big_Companies"}
+{"name":"GottaPark_office_1","category_code":"web","latitude":37.7868333,"longitude":-122.4011603,"rating":"Startup"}
+{"name":"Udorse_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"Zookel_office_1","category_code":"web","latitude":51.5203268,"longitude":-0.0994596,"rating":"Startup"}
+{"name":"isango!_office_1","category_code":"web","latitude":51.519816,"longitude":-0.1361616,"rating":"Big_Companies"}
+{"name":"Finest Expert_office_1","category_code":"web","latitude":37.775196,"longitude":-122.419204,"rating":"Startup"}
+{"name":"One Simple Move_office_1","category_code":"web","latitude":37.800482,"longitude":-122.402922,"rating":"Startup"}
+{"name":"Padz_office_1","category_code":"search","latitude":51.5220763,"longitude":-0.1153003,"rating":"Startup"}
+{"name":"Strategist News_office_1","category_code":"web","latitude":40.7489381,"longitude":-73.9918181,"rating":"Startup"}
+{"name":"Disrupto_office_1","category_code":"web","latitude":40.714279,"longitude":-73.9565551,"rating":"Startup"}
+{"name":"Sticher_office_1","category_code":"games_video","latitude":37.8093381,"longitude":-122.4166061,"rating":"Startup"}
+{"name":"Optimum Energy_office_3","category_code":"cleantech","latitude":40.7518919,"longitude":-73.9875922,"rating":"Big_Companies"}
+{"name":"OwnEnergy_office_1","category_code":"cleantech","latitude":40.7028474,"longitude":-73.9906813,"rating":"Startup"}
+{"name":"Enternships_office_1","category_code":"web","latitude":51.5215279,"longitude":-0.1038219,"rating":"Big_Companies"}
+{"name":"Keen Software House_office_1","category_code":"games_video","latitude":51.5220763,"longitude":-0.1153003,"rating":"Startup"}
+{"name":"TwtBks_office_1","category_code":"web","latitude":37.7611016,"longitude":-122.4160008,"rating":"Startup"}
+{"name":"FireScope_office_4","category_code":"software","latitude":51.5001524,"longitude":-0.1262362,"rating":"Big_Companies"}
+{"name":"High Gear Media_office_1","category_code":"web","latitude":37.445335,"longitude":-122.15833,"rating":"Startup"}
+{"name":"ChallengePost_office_1","category_code":"web","latitude":40.7408042,"longitude":-74.00717,"rating":"Big_Companies"}
+{"name":"StyleCaster_office_1","category_code":"web","latitude":40.7450497,"longitude":-73.9900984,"rating":"Big_Companies"}
+{"name":"GreenVolts_office_1","category_code":"cleantech","latitude":37.790153,"longitude":-122.398669,"rating":"Big_Companies"}
+{"name":"Testplant_office_1","category_code":"software","latitude":51.517356,"longitude":-0.1037742,"rating":"Big_Companies"}
+{"name":"famebook_office_3","category_code":"web","latitude":51.5001524,"longitude":-0.1262362,"rating":"Startup"}
+{"name":"famebook_office_4","category_code":"web","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"Film Annex_office_1","category_code":"games_video","latitude":40.7464969,"longitude":-74.0094471,"rating":"Startup"}
+{"name":"DJ Nitrogen_office_1","category_code":"games_video","latitude":37.7841737,"longitude":-122.4494082,"rating":"Startup"}
+{"name":"ALOT_office_1","category_code":"software","latitude":40.72616,"longitude":-74.006023,"rating":"Big_Companies"}
+{"name":"Conversition_office_1","category_code":"web","latitude":40.756054,"longitude":-73.986951,"rating":"Startup"}
+{"name":"acrossair_office_1","category_code":"mobile","latitude":51.5177425,"longitude":-0.1165365,"rating":"Startup"}
