@@ -2,11 +2,17 @@ import speech_recognition as sr
 import subprocess
 import os
 import pandas as pd
+import nltk
+from nltk import word_tokenize
+from nltk.stem import WordNetLemmatizer
+from nltk.stem import SnowballStemmer
+from nltk.corpus import stopwords
 
 r = sr.Recognizer()
-r.energy_threshold = 2200
+r.energy_threshold = 2500
 mic = sr.Microphone()
-        
+
+# Funciones para recoger el sonido y transformarlo:
 def say(text):
     subprocess.call(['say', "-r 180", text])
 
@@ -45,14 +51,28 @@ def name_set():
     except:
         pass
 
-def pd_fun(trans):
-    dicfun = {"shape": shape(), "tipos de todas las columnas": dftypes(), 
-              "tipo de la columna": dfcolumntype()}
-    for x in dicfun:
-        if x in trans:
-            return dicfun[x]
+# Funciones de limpieza de la frase
+def tokenize(s):
+    return word_tokenize(s)
 
-         
+def stem_and_lemmatize(s):
+    return [WordNetLemmatizer().lemmatize(SnowballStemmer("spanish").stem(x)) for x in tokenize(s)]
+
+def remove_stopwords(s):
+    return " ".join([w for w in stem_and_lemmatize(s) if not w in stopwords.words("spanish")])
+
+# Llama a la función correspondiente en función de tus palabras:
+def pd_fun(trans):
+    dicfun = { 
+        1: [dftypes, ["tip","tod","column"]], 
+        2: [dfcolumntype,["tip","column"]],
+        3: [shape,["dimension"]]
+             }
+    
+    for x in dicfun:
+        if all(w in trans for w in dicfun[x][1]):
+            return dicfun[x][0]()
+
 # Lista de funciones de pandas
 # Show you the list of possible csv and you choice one
 def load_csv():
@@ -67,6 +87,18 @@ def load_csv():
         print(transcript)
         display(df.head())
         return df
+    except:
+        pass
+
+def head():
+    try:
+        display(df.head())
+    except:
+        pass
+
+def tail():
+    try:
+        display(df.tail())
     except:
         pass
     
@@ -92,7 +124,109 @@ def dfcolumntype():
     except:
         pass
 
+def columnas():
+    try:
+        display(df.columns)
+    except:
+        pass
+
+def iloca():
+    try:
+        display(df.iloc[])
+    except:
+        pass
+
+def loca():
+    try:
+        display(df.loc[])
+    except:
+        pass
+
+def isnullo():
+    try:
+        display(df.isnull().sum())
+    except:
+        pass
+
+def dropnulos():
+    try:
+        return df.dropna(subset=["a"], inplace=True)
+    except:
+        pass
+
+def fillnulos():
+    try:
+        return df["a"].fillna(value=)
+    except:
+        pass
     
+def changetype():
+    try:
+        return df["a"].astype(float)
+    except:
+        pass
+
+def renombrar():
+    try:
+        return df.rename(columns={'old_name': 'new_ name'})
+    except:
+        pass
+
+def renombrar():
+    try:
+        return df.set_index('column_one')
+    except:
+        pass
+
+def descrip():
+    # Summary statistics for numerical columns
+    try:
+        display(df.describe())
+    except:
+        pass
+
+def media():
+    # Returns the mean of all columns
+    try:
+        display(df.mean())
+    except:
+        pass
+    
+def correlacion():
+    # Returns the correlation between columns in a DataFrame
+    try:
+        display(df.corr())
+    except:
+        pass
+    
+def counter():
+    # Returns the number of non-null values in each DataFrame column
+    try:
+        display(df.count())
+    except:
+        pass
+    
+def maximus():
+    # Returns the highest value in each column
+    try:
+        display(df.max())
+    except:
+        pass
+    
+def minimas():
+    # Returns the lowest value in each column
+    try:
+        display(df.min())
+    except:
+        pass
+
+def mediana():
+    # Returns the median of each column
+    try:
+        display(df.median())
+    except:
+        pass
+
 # Código principal
 variable = True
 name = name_set()
@@ -109,7 +243,9 @@ while variable:
                     df = load_csv()
                 if "calla" in transcript[1]:
                     variable = False
-                pd_fun(transcript[1])
+                clean = remove_stopwords(transcript[1])
+                print(clean)
+                pd_fun(clean)
             except sr.UnknownValueError:
                 say("Vocaliza un poquito, que no hay quien te entienda")
             except sr.RequestError as e:
@@ -119,3 +255,4 @@ while variable:
             pass
     except:
         pass
+    
