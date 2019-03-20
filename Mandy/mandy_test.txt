@@ -1,0 +1,264 @@
+1 Mandy elimina los valores nulos.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy abre el dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy cuales son las primeras cinco filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy cuales son las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy cual es la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy count.
+2 Que tiene que hacer Mandy?	counter	1
+1 Mandy elimina las filas con valores nulos de columna.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy muestra la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy usa la columna x como indice.
+2 Que tiene que hacer Mandy?	newindex	1
+1 Mandy enseñame las metricas de cada columna.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Mandy muestrame el final del dataframe.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy transforma los valores de la columna X al tipo float.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Mandy correlacion de mis columnas.
+2 Que tiene que hacer Mandy?	correlacion	1
+1 Mandy cual es el nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy muestra los tipos de datos de las columnas.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy carga el dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy que dataset tienes.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy muestra las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy dime la dimension del dataset.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy muestra la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy cuales son las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy muestra los tipos de las columnas.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy abre un dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy muestra las primeras cinco filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy cuales son las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy carga el csv.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy dime los nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy dime los tipos por columna.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy abre el json.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy muestra las primeras filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy muestra las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy muestra el json.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy quiero saber el nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy quiero saber el tipo de datos por columna.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy quiero que abras un dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy quiero que muestres las primeras cinco filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy quiero que muestres las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy quiero que muestres la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy saca la matriz de correlacion.
+2 Que tiene que hacer Mandy?	correlacion	1
+1 Mandy quiero que imprimas la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy dime la mediana de cada columna.
+2 Que tiene que hacer Mandy?	mediana	1
+1 Mandy muestrame la media del dataset.
+2 Que tiene que hacer Mandy?	media	1
+1 Mandy quiero conocer el nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy quiero conocer los tipos de las columnas.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy resultados iniciales.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy enseñame las primeras filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy cual es el numero total de nulos en cada columna.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy convierte la columna x en index.
+2 Que tiene que hacer Mandy?	newindex	1
+1 Mandy muestrame el final del dataset.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy tallo.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy muestra la fila numero.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Mandy que forma tiene el dataframe.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy print los tipos de las columnas.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy en cuales registros de la columna x los valores son iguales a x.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy valor minimo.
+2 Que tiene que hacer Mandy?	minimas	1
+1 Mandy muestrame todos los valores del registro donde el indice sea cinco.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Mandy tipos.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy print las primeras filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy, ¿cuales columnas tienen al menos un valor nulo?.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy que forma tiene el dataset.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy enseñame la fila numero.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Mandy en la columna x sustituye los valores nulos por y.
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Mandy que hay en el indice index.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Mandy dime la mediana.
+2 Que tiene que hacer Mandy?	mediana	1
+1 Mandy localiza las filas donde la columna sea igual a.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy localiza el valor que es igual a en la columna.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy muestrame todos los valores del registro donde los valores de la columna x sean x.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy suma los valores nulos de df.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy muestrame la columna x igual al valor x.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy elimina todos los registros donde los valores de la columna X sean nulos.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy llena los valores vacios de la columna x con la palabra x.
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Mandy quiero que la columna x aparezca como indice.
+2 Que tiene que hacer Mandy?	newindex	1
+1 Mandy sustituye los valores nulos de column con values.
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Mandy enseñame las ultimas filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy valor maximo.
+2 Que tiene que hacer Mandy?	maximus	1
+1 Mandy muestrame solo los valores no nulos.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy cambia el nombre de old a new.
+2 Que tiene que hacer Mandy?	renombrar	1
+1 Mandy rellena los nulos de la columna x.
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Mandy dime la media del dataset.
+2 Que tiene que hacer Mandy?	media	1
+1 Mandy completa los valores nulos.
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Mandy cambia el tipo de la columna x a datatime.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Mandy dime el maximo de cada columna.
+2 Que tiene que hacer Mandy?	maximus	1
+1 Mandy enseñame el minimo de cada columna.
+2 Que tiene que hacer Mandy?	minimas	1
+1 Mandy cambiame el tipo de la columna.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Mandy cabeza.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy borra de la columna x los nulos.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy convierte la columna column en types.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Mandy carga el json.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy cambiame la columna column al tipo types.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Mandy plot las primeras filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy cambia el tipo de la columna x por int64.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Mandy renombra la columna x como x
+2 Que tiene que hacer Mandy?	renombrar	1
+1 Mandy plot las ultimas filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy cambia el nombre de la columna x a x.
+2 Que tiene que hacer Mandy?	renombrar	1
+1 Mandy dime el valor maximo del dataframe.
+2 Que tiene que hacer Mandy?	maximus	1
+1 Mandy renombra la columna X con la etiqueta Y.
+2 Que tiene que hacer Mandy?	renombrar	1
+1 Mandy enseñame el maximo de cada columna.
+2 Que tiene que hacer Mandy?	maximus	1
+1 Mandy renombra.
+2 Que tiene que hacer Mandy?	renombrar	1
+1 Mandy quiero cambiar el tipo de una columna.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Mandy cuales son los tipos del dataset.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy quiero poner un nombre nuevo a la columna.
+2 Que tiene que hacer Mandy?	renombrar	1
+1 Mandy que hay en la fila cinco.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Mandy establece como indice la columna.
+2 Que tiene que hacer Mandy?	newindex	1
+1 Cuenta los registros por columna del dataset.
+2 Que tiene que hacer Mandy?	counter	1
+1 Mandy describe el dataset.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Mandy maximo.
+2 Que tiene que hacer Mandy?	maximus	1
+1 Mandy enseña los nombres columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy elimina nulos de la columna.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy mediana.
+2 Que tiene que hacer Mandy?	mediana	1
+1 Mandy describe.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Mandy rellena con values los nulos.
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Mandy la mediana.
+2 Que tiene que hacer Mandy?	mediana	1
+1 Mandy enseñame el tipo del dataframe.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy cuenta los valores.
+2 Que tiene que hacer Mandy?	counter	1
+1 Mandy dime la mediana del dataframe.
+2 Que tiene que hacer Mandy?	mediana	1
+1 Mandy abreme un dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy muestra las primeras filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy dime cuales son las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy imprime la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy muestra la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy cual es el nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy muestrame los tipos de datos por columna.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy carga un dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy abre un csv.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy muestra las ultimas filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy cual es la dimension del dataset.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy cuales son los tipos de datos por columna.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy cuales son las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy imprime los tipos de datos.
+2 Que tiene que hacer Mandy?	dtype	1
