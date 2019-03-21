@@ -1,6 +1,6 @@
 1 Mandy elimina los valores nulos.
 2 Que tiene que hacer Mandy?	dropnulos	1
-1 Mandy abre el dataset.
+1 Mandy cargar el dataset.
 2 Que tiene que hacer Mandy?	load_csv	1
 1 Mandy cuales son las primeras cinco filas.
 2 Que tiene que hacer Mandy?	header	1
@@ -12,6 +12,10 @@
 2 Que tiene que hacer Mandy?	counter	1
 1 Mandy elimina las filas con valores nulos de columna.
 2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy encuentra los valores nulos
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy los valores nulos
+2 Que tiene que hacer Mandy?	isnullo	1
 1 Mandy muestra la dimension.
 2 Que tiene que hacer Mandy?	shape	1
 1 Mandy usa la columna x como indice.
@@ -146,7 +150,7 @@
 2 Que tiene que hacer Mandy?	header	1
 1 Mandy enseñame las cinco primera lineas del dataframe.
 2 Que tiene que hacer Mandy?	header	1
-1 Enseñame el principio del dataset.
+1 Enseñame el principio del dataset cabecera.
 2 Que tiene que hacer Mandy?	header	1
 1 Mandy resultados finales.
 2 Que tiene que hacer Mandy?	tailer	1
@@ -154,6 +158,8 @@
 2 Que tiene que hacer Mandy?	tailer	1
 1 Mandy enseñame las cinco ultimas filas del dataframe.
 2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy cabecera.
+2 Que tiene que hacer Mandy?	header	1
 1 Mandy convierte la columna x en index.
 2 Que tiene que hacer Mandy?	newindex	1
 1 Mandy muestrame el final del dataset.
@@ -197,7 +203,7 @@
 1 Mandy enseñame el nombre de las columnas del dataframe.
 2 Que tiene que hacer Mandy?	columnas	1
 1 Mandy dime la cabecera del dataframe.
-2 Que tiene que hacer Mandy?	columnas	1
+2 Que tiene que hacer Mandy?	header	1
 1 Mandy print las primeras filas.
 2 Que tiene que hacer Mandy?	header	1
 1 Mandy columnas.
@@ -316,6 +322,14 @@
 2 Que tiene que hacer Mandy?	tailer	1
 1 Mandy cambia el nombre de la columna x a x.
 2 Que tiene que hacer Mandy?	renombrar	1
+1 Imprime las filas de la columna iguales a.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy cambia el indice.
+2 Que tiene que hacer Mandy?	newindex	1
+1 Busca un registro.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy busca.
+2 Que tiene que hacer Mandy?	loca	1
 1 Mandy dime el valor maximo del dataframe.
 2 Que tiene que hacer Mandy?	maximus	1
 1 Mandy renombra la columna X con la etiqueta Y.
@@ -333,8 +347,6 @@
 1 Mandy que hay en la fila cinco.
 2 Que tiene que hacer Mandy?	iloca	1
 1 Mandy establece como indice la columna.
-2 Que tiene que hacer Mandy?	newindex	1
-1 Mandy cambia el indice.
 2 Que tiene que hacer Mandy?	newindex	1
 1 Mandy dime el valor minimo del dataframe.
 2 Que tiene que hacer Mandy?	minimas	1
@@ -450,3 +462,375 @@
 2 Que tiene que hacer Mandy?	columnas	1
 1 Mandy imprime los tipos de datos.
 2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy muestrame la fila numero.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Estas loca Mandy.
+2 Que tiene que hacer Mandy?	loca	1
+1 Muestra las filas de la columna.
+2 Que tiene que hacer Mandy?	loca	1
+1 Muestra las filas de la columna iguales a.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy cola.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Elimina los valores nulos.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Abre el dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Cuales son las primeras cinco filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Cuales son las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Cual es la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Count.
+2 Que tiene que hacer Mandy?	counter	1
+1 Elimina las filas con valores nulos de columna.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Muestra la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Usa la columna x como indice.
+2 Que tiene que hacer Mandy?	newindex	1
+1 Enseñame las metricas de cada columna.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Muestrame el final del dataframe.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Transforma los valores de la columna X al tipo float.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Correlacion de mis columnas.
+2 Que tiene que hacer Mandy?	correlacion	1
+1 Cual es el nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Muestra los tipos de datos de las columnas.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Carga el dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Que dataset tienes.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Muestra las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Dime la dimension del dataset.
+2 Que tiene que hacer Mandy?	shape	1
+1 Muestra la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Cuales son las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Muestra los tipos de las columnas.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Abre un dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Muestra las primeras cinco filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Cuales son las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Cual es la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Elimina nulos del dataframe.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Rellename los valores en la columna.
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Muestrame la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Cual es el nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Muestrame los tipos de datos de las columnas.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Abre el dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Enseñame las primeras cinco filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Enseñame las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Cambia el tipo de la columna X a object.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Muestra la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Enseñame el nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Enseña tipos de datos de las columnas.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Carga un dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Imprime las primeras cinco filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Imprime las ultimas cinco filas.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Los tipos de datos
+2 Que tiene que hacer Mandy?	dtype	1
+1 Imprime la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Imprime el nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Imprime los tipos de datos de las columnas.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Abre un csv Mandy.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Carga algunas filas Mandy.
+2 Que tiene que hacer Mandy?	header	1
+1 Carga las ultimas filas Mandy.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy carga Mandy el csv.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy imprime las filas de la columna iguales a.
+2 Que tiene que hacer Mandy?	loca	1
+1 Muestra los registros de la columna y de que sean igual.
+2 Que tiene que hacer Mandy?	loca	1
+1 Muestra los registros de la columna.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy muestra un Mandy csv.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy dime los nombre de Mandy las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy dime los tipos Mandy por columna.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy Mandy abre el json.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy muestra Mandy las primeras filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy muestra las ultimas cinco filas Mandy.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Muestra el Mandy json.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Tipo.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Abre un dataset.
+2 Que tiene que hacer Mandy?	load_csv	1
+1 Mandy primeras filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Cola.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy dime la correlacion.
+2 Que tiene que hacer Mandy?	correlacion	1
+1 Dime la dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mediana.
+2 Que tiene que hacer Mandy?	mediana	1
+1 Media del dataset.
+2 Que tiene que hacer Mandy?	media	1
+1 Nombre de las columnas.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Tipos.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Cabezas.
+2 Que tiene que hacer Mandy?	header	1
+1 Enseñame las Mandy primeras filas.
+2 Que tiene que hacer Mandy?	header	1
+1 Nulos en cada columna Mandy.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Muestrame el data.
+2 Que tiene que hacer Mandy?	header	1
+1 Primera Mandy primera lineas del dataframe.
+2 Que tiene que hacer Mandy?	header	1
+1 Enseñame el principio del dataset Mandy principio.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy resultados Mandy resultados finales.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy print print las ultimas filas Mandy.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Enseñame las cinco ultimas filas del dataframe.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Nuevo index.
+2 Que tiene que hacer Mandy?	newindex	1
+1 Mandy coca cola.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy cocacola.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy dimension muestra la muestra dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy fila.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Mandy cual dimension.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy columnas nombres.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy dimen.
+2 Que tiene que hacer Mandy?	shape	1
+1 Que forma tiene.
+2 Que tiene que hacer Mandy?	shape	1
+1 Tipo columna.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy busca en la columna.
+2 Que tiene que hacer Mandy?	loca	1
+1 Muestrame los diferentes tipos Mandy en mi dataset.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy valor Mandy minimo valor columna.
+2 Que tiene que hacer Mandy?	minimas	1
+1 Di los tipos de valores de las dataset.
+2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy enseña los valores con indice.
+2 Que tiene que hacer Mandy?	iloca	1
+1 tip Mandy tipos.
+2 Que tiene que hacer Mandy?	dtype	1
+1 name Mandy nombre de las columnas names.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy end del dataset cola.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy busca los valores iguales a x en la columna que se llama x.
+2 Que tiene que hacer Mandy?	loca	1
+1 Busca en la columna.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy cabecera.
+2 Que tiene que hacer Mandy?	header	1
+1 Columna.
+2 Que tiene que hacer Mandy?	columnas	1
+1 Mandy muestra la fila numero.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Mandy localiza la fila indice.
+2 Que tiene que hacer Mandy?	iloca	1
+1 cuales columnas tienen al menos un valor nulo.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy forma dataframe.
+2 Que tiene que hacer Mandy?	shape	1
+1 Enseñame la fila numero.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Sustituye los valores nulos null.
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Mandy muestra el indice Mandy index.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Mandy dime la mediana ana.
+2 Que tiene que hacer Mandy?	mediana	1
+1 Imprime fila.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Borra los nulos.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Elimina los nulos.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Quita los nulos de las columnas.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Borra los nulos de la columna.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Localiza las filas cuya columna sea igual a.
+2 Que tiene que hacer Mandy?	loca	1
+1 Localiza en la columna cuya fila sean igual a.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy borra los nulos.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy busca las filas donde el valor sea igual a en la columna.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy busca un valor en la columna
+2 Que tiene que hacer Mandy?	loca	1
+1 Muestrame todos los valores del registro donde los valores de la columna.
+2 Que tiene que hacer Mandy?	loca	1
+1 Suma los valores nulos de df.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy muestra las filas de la columna.
+2 Que tiene que hacer Mandy?	loca	1
+1 Enseña los valores nulos mayores a x.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Que valor es el indice cinco.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Enseñame los valores nulos.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy muestrame la Mandy correlacion del dataset.
+2 Que tiene que hacer Mandy?	correlacion	1
+1 Mandy nulos.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Nulos.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Principio.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy cuenta valores nulos.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mea.
+2 Que tiene que hacer Mandy?	media	1
+1 Mandy cargate las filas con valores nulos.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy lo que sea correlacion.
+2 Que tiene que hacer Mandy?	correlacion	1
+1 Mandy a ver el indice Mandy.
+2 Que tiene que hacer Mandy?	iloca	1
+1 Mandy delete valores nulos borra elimina.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy renombre.
+2 Que tiene que hacer Mandy?	renombrar	1
+1 Mandy renombrar
+2 Que tiene que hacer Mandy?	renombre	1
+1 Renombre.
+2 Que tiene que hacer Mandy?	renombrar	1
+1 Renombrar
+2 Que tiene que hacer Mandy?	renombre	1
+1 Mandy loca.
+2 Que tiene que hacer Mandy?	loca	1
+1 Elimina.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Completa nulos.
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Mandy el final.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Mandy maximus.
+2 Que tiene que hacer Mandy?	maximus	1
+1 Mandy rellenar nulos.
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Mandy los nulos.
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy cambia tipo.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Mandy canta el maximo.
+2 Que tiene que hacer Mandy?	maximus	1
+1 Mandy enseñame de cada columna el minimo.
+2 Que tiene que hacer Mandy?	minimas	1
+1 Mandy estas loca.
+2 Que tiene que hacer Mandy?	loca	1
+1 Cabeza.
+2 Que tiene que hacer Mandy?	header	1
+1 Mandy delete.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy renombra la columna.
+2 Que tiene que hacer Mandy?	renombrar	1
+1 Mandy cambia el indice.
+2 Que tiene que hacer Mandy?	newindex	1
+1 Mandy quiero cambiar de indice.
+2 Que tiene que hacer Mandy?	newindex	1
+1 Mandy minimas.
+2 Que tiene que hacer Mandy?	minimas	1
+1 Mandy descripcion.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Mandy estadisticas.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Estadisticas.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Mandy muestra los registros de la columna.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy describe.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Mandy dimensiones.
+2 Que tiene que hacer Mandy?	shape	1
+1 Mandy muestra todas estadisticas del dataset.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Mandy haz una descripcion de la tabla.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Mandy calcula media.
+2 Que tiene que hacer Mandy?	media	1
+1 Mandy suma.
+2 Que tiene que hacer Mandy?	counter	1
+1 Mandy saca media.
+2 Que tiene que hacer Mandy?	media	1
+1 Suma.
+2 Que tiene que hacer Mandy?	counter	1
+1 Mandy cuenta.
+2 Que tiene que hacer Mandy?	counter	1
+1 Mandy muestra los registros de la columna y de que sean igual.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy muestra las filas de la columna iguales a.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy busca los valores nulos
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy muestra los valores nulos
+2 Que tiene que hacer Mandy?	isnullo	1
+1 Mandy borra.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy elimina.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy muestra la cabecera.
+2 Que tiene que hacer Mandy?	header	1
+1 Quiero buscar en una columna
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy quiero rellenar los nulos
+2 Que tiene que hacer Mandy?	fillnulos	1
+1 Mandy quiero rellenar los nulos de la columna
+2 Que tiene que hacer Mandy?	fillnulos	1

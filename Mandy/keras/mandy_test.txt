@@ -262,3 +262,25 @@
 2 Que tiene que hacer Mandy?	columnas	1
 1 Mandy imprime los tipos de datos.
 2 Que tiene que hacer Mandy?	dtype	1
+1 Muestra los registros de la columna que sean igual.
+2 Que tiene que hacer Mandy?	loca	1
+1 Borra los nulos de la columna.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Localiza las filas cuya columna sea igual a.
+2 Que tiene que hacer Mandy?	loca	1
+1 Localiza en la columna cuya fila sean igual a.
+2 Que tiene que hacer Mandy?	loca	1
+1 Mandy borra los nulos.
+2 Que tiene que hacer Mandy?	dropnulos	1
+1 Mandy busca las filas donde el valor sea igual a en la columna.
+2 Que tiene que hacer Mandy?	loca	1
+1 cola.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Enseñame las metricas de cada columna.
+2 Que tiene que hacer Mandy?	descrip	1
+1 Muestrame el final del dataframe.
+2 Que tiene que hacer Mandy?	tailer	1
+1 Transforma los valores de la columna X al tipo float.
+2 Que tiene que hacer Mandy?	changetypes	1
+1 Correlacion de mis columnas.
+2 Que tiene que hacer Mandy?	correlacion	1
