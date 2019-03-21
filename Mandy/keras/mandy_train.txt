@@ -564,6 +564,8 @@
 2 Que tiene que hacer Mandy?	columnas	1
 1 Imprime los tipos de datos de las columnas.
 2 Que tiene que hacer Mandy?	dtype	1
+1 Mandy quiero rellenar los valores nulos
+2 Que tiene que hacer Mandy?	fillnulos	1
 1 Abre un csv Mandy.
 2 Que tiene que hacer Mandy?	load_csv	1
 1 Carga algunas filas Mandy.

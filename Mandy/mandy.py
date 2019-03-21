@@ -168,9 +168,9 @@ def loca(trans, df):
         equal = fun_transcript(t=10, p=5)
         print(df.loc[column == equal])
     except:
-        say("¿En qué columna quieres buscar?")
+        say("No te he entendido, escribe en el terminal en qué columna quieres buscar?")
         column = input("¿En qué columna estás buscando?")
-        say("¿Qué valor estás buscando?")
+        say("Escribe en el terminal en qué valor estás buscando")
         equal = input("¿Qué valor estás buscando?")
         print(df.loc[column == equal])
 
@@ -191,8 +191,10 @@ def fillnulos(trans, df):
     try:
         say("¿En qué columna deseas sustituir los valores nulos?")
         column = fun_transcript(t=5, p=5)
+        print(column)
         say("¿Porque valor deseas sustituir los nulos de la columna {}?".format(column))
         values = fun_transcript(t=5, p=5)
+        print(values)
         return df[column].fillna(value = values, inplace=True)
     except:
         say("No te he entendido, escribe en el terminal en qué columna deseas sustituir los valores nulos?")
@@ -365,7 +367,7 @@ EMBED_HIDDEN_SIZE = 50
 SENT_HIDDEN_SIZE = 100
 QUERY_HIDDEN_SIZE = 100
 BATCH_SIZE = 32
-EPOCHS = 75
+EPOCHS = 85
 print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
                                                            EMBED_HIDDEN_SIZE,
                                                            SENT_HIDDEN_SIZE,
@@ -458,6 +460,8 @@ while variable:
             try:
                 if "pesada" in transcript[1]:
                     variable = False
+                elif transcript[1] == "Mandy":
+                    pass
                 else:
                     if pd_fun(transcript[1]) == load_csv:
                         df = load_csv()

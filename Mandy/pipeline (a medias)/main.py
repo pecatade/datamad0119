@@ -11,11 +11,12 @@ from word2number import w2n
 from unicodedata import normalize
 import re
 import funciones as fu
+import keraslearning as kr
 
 # Código principal
 variable = True
-#name = fu.name_set()
-#fu.say("Hola {}, que puedo hacer por ti?. Di mi nombre y lo que quieres que haga para que me active.".format(name))
+name = fu.nameset()
+fu.say("Hola {}, que puedo hacer por ti?. Di mi nombre y lo que quieres que haga para que me active.".format(name))
 
 while variable:
     try:

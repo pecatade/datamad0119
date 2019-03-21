@@ -284,3 +284,5 @@
 2 Que tiene que hacer Mandy?	changetypes	1
 1 Correlacion de mis columnas.
 2 Que tiene que hacer Mandy?	correlacion	1
+1 Mandy quiero rellenar los nulos
+2 Que tiene que hacer Mandy?	fillnulos	1
