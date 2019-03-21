@@ -81,4 +81,4 @@ if __name__ == '__main__':
 
   # Printing the label of the new
 
-  print('The new probably is: ', new_label)
+  print('\x1b[6;30;42m' + str(new_label) + '\x1b[0m')
