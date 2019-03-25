@@ -1,11 +1,8 @@
 from __future__ import print_function
 from functools import reduce
-import re
-import tarfile
-import pandas as pd
 import numpy as np
-from nltk.corpus import stopwords
 import nltk
+from nltk.corpus import stopwords
 from nltk import word_tokenize
 from keras.utils.data_utils import get_file
 from keras.layers.embeddings import Embedding
@@ -13,6 +10,8 @@ from keras import layers
 from keras.layers import recurrent
 from keras.models import Model
 from keras.preprocessing.sequence import pad_sequences
+import json
+ 
 
 
 def tokenize(sent):
@@ -91,7 +90,7 @@ EMBED_HIDDEN_SIZE = 50
 SENT_HIDDEN_SIZE = 100
 QUERY_HIDDEN_SIZE = 100
 BATCH_SIZE = 32
-EPOCHS = 12
+EPOCHS = 85
 print('RNN / Embed / Sent / Query = {}, {}, {}, {}'.format(RNN,
                                                            EMBED_HIDDEN_SIZE,
                                                            SENT_HIDDEN_SIZE,
@@ -102,7 +101,7 @@ try:
 except:
     raise
 
-challenge = 'keras/mandy_{}.txt'
+challenge = 'trainingsamples/mandy_{}.txt'
 train = get_stories(open(challenge.format('train')))
 test = get_stories(open(challenge.format('test')))
 
@@ -116,6 +115,13 @@ vocab_size = len(vocab) + 1
 word_idx = dict((c, i + 1) for i, c in enumerate(vocab))
 story_maxlen = max(map(len, (x for x, _, _ in train + test)))
 query_maxlen = max(map(len, (x for _, x, _ in train + test)))
+
+# Exportamos las variable a un json
+variables = [word_idx, story_maxlen, query_maxlen, vocab]
+json = json.dumps(variables)
+f = open("variables.json","w")
+f.write(json)
+f.close()
 
 x, xq, y = vectorize_stories(train, word_idx, story_maxlen, query_maxlen)
 tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
@@ -156,17 +162,10 @@ loss, acc = model.evaluate([tx, txq], ty,
                            batch_size=BATCH_SIZE)
 print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
 
-print("Diccionario con la acción prevista y la predicha para cada orden en mandy_test.txt")
-dic = {}
-df = pd.DataFrame(index = vocab)
-for x in range(len(model.predict([tx, txq]))):
-    df[x] = model.predict([tx, txq])[x][1:]
-    dic[str(x) + " " + test[x][2]] = df[x].idxmax()
-print(dic)
-
-def traineural(tran):
-    test = [(tokenize(tran), ['hacer', 'mandy', '?'], '.')]
-    tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
-    df = pd.DataFrame(index = vocab)
-    df["Prediction"] = model.predict([tx, txq])[0][1:]
-    return df["Prediction"].idxmax()
+# serialize model to JSON
+model_json = model.to_json()
+with open("model.json", "w") as json_file:
+    json_file.write(model_json)
+# serialize weights to HDF5
+model.save_weights("model.h5")
+print("Saved model to disk")

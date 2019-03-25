@@ -378,7 +378,7 @@ try:
 except:
     raise
 
-challenge = 'keras/mandy_{}.txt'
+challenge = 'trainingsamples/mandy_{}.txt'
 train = get_stories(open(challenge.format('train')))
 test = get_stories(open(challenge.format('test')))
 
@@ -432,14 +432,6 @@ loss, acc = model.evaluate([tx, txq], ty,
                            batch_size=BATCH_SIZE)
 print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
 
-print("Diccionario con la acción prevista y la predicha para cada orden en mandy_test.txt")
-dic = {}
-df = pd.DataFrame(index = vocab)
-for x in range(len(model.predict([tx, txq]))):
-    df[x] = model.predict([tx, txq])[x][1:]
-    dic[str(x) + " " + test[x][2]] = df[x].idxmax()
-print(dic)
-
 def traineural(tran):
     test = [(tokenize(tran), ['hacer', 'mandy', '?'], '.')]
     tx, txq, ty = vectorize_stories(test, word_idx, story_maxlen, query_maxlen)
@@ -449,8 +441,10 @@ def traineural(tran):
 
 # Código principal
 variable = True
-name = nameset()
-say("Hola {}, que puedo hacer por ti?. Di mi nombre y lo que quieres que haga para que me active.".format(name))
+#name = nameset()
+#say("Hola {}, que puedo hacer por ti?. Di mi nombre y lo que quieres que haga para que me active.".format(name))
+say("Estoy lista. Di mi nombre y lo que quieres que haga para que me active.")
+print("Estoy lista. Di mi nombre y lo que quieres que haga para que me active.")
 
 while variable:
     try:

@@ -1,15 +1,20 @@
+from __future__ import print_function
+from functools import reduce
+from keras.models import model_from_json
+from unicodedata import normalize
 import speech_recognition as sr
 import subprocess
 import os
-import pandas as pd
-import nltk
-from nltk import word_tokenize
-from nltk.stem import WordNetLemmatizer
-from nltk.corpus import stopwords
-from word2number import w2n
-from unicodedata import normalize
-from keraslearning import traineural
 import re
+import tarfile
+import pandas as pd
+import numpy as np
+import nltk
+import json
+from nltk.corpus import stopwords
+from nltk import word_tokenize
+from keras.preprocessing.sequence import pad_sequences
+
 
 r = sr.Recognizer()
 r.energy_threshold = 1800
@@ -23,7 +28,7 @@ def say(text):
 def fun_transcript(t=6, p=6, l="es-ES"):
     try:
         with mic as source:
-            audio = r.listen(source, timeout=t, phrase_time_limit=p)
+            audio = r.listen(source, phrase_time_limit=p)
             transcript = r.recognize_google(audio, language = l)
             return transcript.lower()
     except:
@@ -75,20 +80,6 @@ def pd_fun(trans):
             return x
         else:
             pass
-
-# personaliza el nombre de la persona con la que habla
-def nameset():
-    try:
-        say("Hola colega, no nos conocemos, ¿cual es tu nombre?")
-        n = fun_transcript(t=3, p=3)
-        if n == None:
-            say("Estoy sorda, ¿puedes repetirlo?")
-            n = fun_transcript(t=4, p=3)
-            return n
-        else:
-            return n
-    except:
-        pass
     
 
 # Lista de funciones de pandas
@@ -157,9 +148,9 @@ def loca(trans, df):
         equal = fun_transcript(t=10, p=5)
         print(df.loc[column == equal])
     except:
-        say("¿En qué columna quieres buscar?")
+        say("No te he entendido, escribe en el terminal en qué columna quieres buscar?")
         column = input("¿En qué columna estás buscando?")
-        say("¿Qué valor estás buscando?")
+        say("Escribe en el terminal en qué valor estás buscando")
         equal = input("¿Qué valor estás buscando?")
         print(df.loc[column == equal])
 
@@ -180,13 +171,15 @@ def fillnulos(trans, df):
     try:
         say("¿En qué columna deseas sustituir los valores nulos?")
         column = fun_transcript(t=5, p=5)
+        print(column)
         say("¿Porque valor deseas sustituir los nulos de la columna {}?".format(column))
         values = fun_transcript(t=5, p=5)
+        print(values)
         return df[column].fillna(value = values, inplace=True)
     except:
-        say("¿En qué columna deseas sustituir los valores nulos?")
+        say("No te he entendido, escribe en el terminal en qué columna deseas sustituir los valores nulos?")
         column = input("¿En qué columna deseas sustituir los valores nulos?")
-        say("¿Porque valor deseas sustituir los nulos de la columna {}?".format(column))
+        say("Escribe en el terminal el valor por el que deseas sustituir los nulos de la columna {}?".format(column))
         values = input("¿Porque valor deseas sustituir los nulos de la columna {}?".format(column))
         return df[column].fillna(value = values, inplace=True)
     
@@ -198,9 +191,9 @@ def changetype(trans, df):
         types = fun_transcript(t=5, p=5)
         return df[column].astype(types)
     except:
-        say("¿A que columna quieres cambiar el tipo?")
+        say("No te he entendido, escribe en el terminal a que columna quieres cambiar el tipo")
         column = input("¿A que columna quieres cambiar el tipo?")
-        say("¿A que tipo quieres cambiarlo?")
+        say("Escribe en el terminal a que tipo quieres cambiarlo")
         types = input("¿A que tipo quieres cambiarlo?")
         return df[column].astype(types)
 
@@ -212,9 +205,9 @@ def renombrar(trans, df):
         new = fun_transcript(t=5, p=5)
         return df.rename(columns={old: new}, inplace=True)
     except:
-        say("¿A que columna quieres cambiar el nombre?")
+        say("No te he entendido, escribe en el terminal a que columna quieres cambiar el nombre")
         old = input("¿A que columna quieres cambiar el nombre?")
-        say("¿Cómo quieres que se llame la columna?")
+        say("Escribe en el terminal como quieres que se llame la columna")
         new = input("¿Cómo quieres que se llame la columna?")
         return df.rename(columns={old: new}, inplace=True)
 
@@ -224,7 +217,7 @@ def newindex(trans, df):
         column = fun_transcript(t=5, p=5)
         return df.set_index(column, inplace=True)
     except:
-        say("¿Qué columna quieres que sea el nuevo índice?")
+        say("No te he entendido, escribe en el terminal la columna que quieres que sea el nuevo índice?")
         column = input("¿Qué columna quieres que sea el nuevo índice?")
         return df.set_index(column, inplace=True)
 
@@ -276,3 +269,52 @@ def mediana(trans, df):
         print(df.median())
     except:
         pass
+
+# load variables
+json_var = open('variables.json', 'r')
+variables = json.load(json_var)
+word_idx = variables[0]
+story_maxlen = variables[1]
+query_maxlen = variables[2]
+vocab = variables[3]
+print(variables)
+print(word_idx)
+print(story_maxlen)
+print(query_maxlen)
+print(vocab)
+
+
+def tokenize(sent):
+    return [w for w in nltk.word_tokenize(sent.lower()) if not w in stopwords.words("spanish")]
+
+def vectorize_stories(data, word_idx=word_idx, story_maxlen=story_maxlen, query_maxlen=query_maxlen):
+    xs = []
+    xqs = []
+    ys = []
+    for story, query, answer in data:
+        x = [word_idx[w] for w in story]
+        xq = [word_idx[w] for w in query]
+        # let's not forget that index 0 is reserved
+        y = np.zeros(len(word_idx) + 1)
+        y[word_idx[answer]] = 1
+        xs.append(x)
+        xqs.append(xq)
+        ys.append(y)
+    return (pad_sequences(xs, maxlen=story_maxlen),
+            pad_sequences(xqs, maxlen=query_maxlen), np.array(ys))
+
+# load json and create model
+json_file = open('model.json', 'r')
+loaded_model_json = json_file.read()
+json_file.close()
+loaded_model = model_from_json(loaded_model_json)
+# load weights into new model
+loaded_model.load_weights("model.h5")
+print("Loaded model from disk")
+
+def traineural(tran):
+    test = [(tokenize(tran), ['hacer', 'mandy', '?'], '.')]
+    tx, txq, ty = vectorize_stories(test)
+    df = pd.DataFrame(index = vocab)
+    df["Prediction"] = loaded_model.predict([tx, txq])[0][1:]
+    return df["Prediction"].idxmax()
