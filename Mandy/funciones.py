@@ -271,18 +271,12 @@ def mediana(trans, df):
         pass
 
 # load variables
-json_var = open('variables.json', 'r')
+json_var = open('./model/variables.json', 'r')
 variables = json.load(json_var)
 word_idx = variables[0]
 story_maxlen = variables[1]
 query_maxlen = variables[2]
 vocab = variables[3]
-print(variables)
-print(word_idx)
-print(story_maxlen)
-print(query_maxlen)
-print(vocab)
-
 
 def tokenize(sent):
     return [w for w in nltk.word_tokenize(sent.lower()) if not w in stopwords.words("spanish")]
@@ -304,12 +298,12 @@ def vectorize_stories(data, word_idx=word_idx, story_maxlen=story_maxlen, query_
             pad_sequences(xqs, maxlen=query_maxlen), np.array(ys))
 
 # load json and create model
-json_file = open('model.json', 'r')
+json_file = open('./model/model.json', 'r')
 loaded_model_json = json_file.read()
 json_file.close()
 loaded_model = model_from_json(loaded_model_json)
 # load weights into new model
-loaded_model.load_weights("model.h5")
+loaded_model.load_weights("./model/model.h5")
 print("Loaded model from disk")
 
 def traineural(tran):

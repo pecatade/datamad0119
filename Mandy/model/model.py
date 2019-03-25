@@ -101,7 +101,7 @@ try:
 except:
     raise
 
-challenge = 'trainingsamples/mandy_{}.txt'
+challenge = './model/trainingsamples/mandy_{}.txt'
 train = get_stories(open(challenge.format('train')))
 test = get_stories(open(challenge.format('test')))
 
@@ -119,7 +119,7 @@ query_maxlen = max(map(len, (x for _, x, _ in train + test)))
 # Exportamos las variable a un json
 variables = [word_idx, story_maxlen, query_maxlen, vocab]
 json = json.dumps(variables)
-f = open("variables.json","w")
+f = open("./model/variables.json","w")
 f.write(json)
 f.close()
 
@@ -164,8 +164,8 @@ print('Test loss / test accuracy = {:.4f} / {:.4f}'.format(loss, acc))
 
 # serialize model to JSON
 model_json = model.to_json()
-with open("model.json", "w") as json_file:
+with open("./model/model.json", "w") as json_file:
     json_file.write(model_json)
 # serialize weights to HDF5
-model.save_weights("model.h5")
+model.save_weights("./model/model.h5")
 print("Saved model to disk")
