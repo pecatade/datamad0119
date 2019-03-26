@@ -32,7 +32,6 @@ This project pretend to develop a virtual assistant who allows everyone to analy
 
 Just run the main.py in the terminal from the repository.
 
-    cd PATH
     python3 main.py
     
 
