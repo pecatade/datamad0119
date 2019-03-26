@@ -30,17 +30,25 @@ This project pretend to develop a virtual assistant who allows everyone to analy
 
 ## HOW TO RUN MANDY:
 
+Just run the main.py in the terminal from the repository.
+
+    cd PATH
+    python3 main.py
+    
 
 
 ## FILES IN THE REPOSITORY:
 
-Modular, directory with the .py neccesary files to execute the app for fake news detection:
+Directory with the .py neccesary files to execute the app for fake news detection:
 
-	functions_transf.py
-	main.py
+    funciones.py
+    main.py
 
-finalized_model.sav and finalized_vectorizer.sav the file where are stored de vectorizer and the trained model  for the classifier.
+Also you can find two folders in the directory:
 
-main.ipynb: where is developed the code to make the machine learning model.
+    datasets
+    model
+    
+The datasets folder is used to stock the datasets that Mandy is able to open.
 
-news_scraping.ipynb: it contains the code to build the dataset.
+In the model folder there are all the necessary files to train the neuronal network.
