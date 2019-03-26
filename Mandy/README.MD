@@ -1,4 +1,4 @@
-![Mandy logo](https://imgur.com/a/80vz1V6)
+![Mandy logo](https://i.imgur.com/80vz1V6.png)
 
 # MANDY: VOICE CONTROL VIRTUAL ASSISTANT FOR PANDAS
 
